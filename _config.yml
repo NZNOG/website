@@ -30,8 +30,7 @@ url: "https://www.nznog.org" # the base hostname & protocol for your site, e.g. 
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+plugins: []
 
 # Exclude from processing.
 # The following items will not be processed, by default.
