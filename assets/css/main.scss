@@ -9,3 +9,11 @@ blockquote.bg-gray {
     border: 1px solid #b3b3b3;
     border-left: 10px solid #b3b3b3;
 }
+
+.navbar a.dropdown-item.active {
+    background-color: lightgray;
+}
+
+.navbar a.dropdown-toggle.active {
+    color: $navbar-light-active-color;
+}
