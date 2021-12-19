@@ -1,5 +1,9 @@
 <header>
-  {%- assign top_level_page_paths = site.pages | where: "dir", "/" | map: "path" -%}
+  {%- assign top_level_pages = site.pages | where: "dir", "/" | where_exp: "page", "page.layout != 'conference'" | where_exp: "page", "page.title != nil" | "default_property: "order", "10" | sort: "order" -%}
+  {%- assign top_level_page_paths = top_level_pages | map: "path" -%}
+  {%- assign conference_pages = site.pages | where: "dir", "/" | where: "layout", "conference" | default_property: "current_conference", "false" -%}
+  {%- assign current_conference_pages = conference_pages | where: "current_conference", "true" -%}
+  {%- assign past_conference_pages = conference_pages | where: "current_conference", "false" -%}
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
       <a class="navbar-brand" href="{{ "/" | relative_url }}">
@@ -10,30 +14,78 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-          {%- for path in top_level_page_paths -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
+          {%- for my_page in current_conference_pages -%}
             {%- assign subtree = my_page.url | append: "/" -%}
             {%- assign subpage_paths = site.pages | where: "dir", subtree | map: "path" -%}
-            {%- if subpage_paths.size > 0 %}
+            {%- if subpage_paths.size > 0 -%}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle{% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="#" data-bs-toggle="dropdown" role="button" aria-expanded="false">{{ my_page.title | escape }}</a>
+                <ul class="dropdown-menu">
+                  <li><a class="nav-link dropdown-item{% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+                  {%- for subpage_path in subpage_paths -%}
+                    {%- assign subpage = site.pages | where: "path", subpage_path | first -%}
+                    {%- if subpage.title -%}
+                    <li><a class="nav-link dropdown-item{% if page.url == subpage.url %} active" aria-current="page{%- endif -%}" href="{{ subpage.url | relative_url }}">{{ subpage.title | escape }}</a></li>
+                    {%- endif -%}
+                  {%- endfor -%}
+                </ul>
+              </li>
+            {%- else -%}
+              <li class="nav-item">
+                <a class="nav-link{% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" role="button" aria-expanded="false">{{ my_page.title | escape }}</a>
+            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" role="button" aria-expanded="false">Past Conferences</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
-              {%- for subpage_path in subpage_paths -%}
-              {%- assign subpage = site.pages | where: "path", subpage_path | first -%}
-              {%- if subpage.title -%}
-              <li><a class="dropdown-item" href="{{ subpage.url | relative_url }}">{{ subpage.title | escape }}</a></li>
-              {%- endif -%}
+              {%- for my_page in past_conference_pages -%}
+                {%- if my_page.title -%}
+                  {%- assign subtree = my_page.url | append: "/" -%}
+                  {%- assign subpage_paths = site.pages | where: "dir", subtree | map: "path" -%}
+                  {%- if subpage_paths.size > 0 -%}
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle{% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="#" data-bs-toggle="dropdown" role="button" aria-expanded="false">{{ my_page.title | escape }}</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="nav-link dropdown-item{% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+                        {%- for subpage_path in subpage_paths -%}
+                          {%- assign subpage = site.pages | where: "path", subpage_path | first -%}
+                          {%- if subpage.title -%}
+                          <li><a class="nav-link dropdown-item{% if page.url == subpage.url %} active" aria-current="page{%- endif -%}" href="{{ subpage.url | relative_url }}">{{ subpage.title | escape }}</a></li>
+                          {%- endif -%}
+                        {%- endfor -%}
+                      </ul>
+                    </li>
+                  {%- else -%}
+                    <li class="nav-item">
+                      <a class="nav-link{% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                    </li>
+                  {%- endif -%}
+                {%- endif -%}
               {%- endfor -%}
             </ul>
           </li>
+          {%- for my_page in top_level_pages -%}
+            {%- assign subtree = my_page.url | append: "/" -%}
+            {%- assign subpage_paths = site.pages | where: "dir", subtree | map: "path" -%}
+            {%- if subpage_paths.size > 0 -%}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" role="button" aria-expanded="false">{{ my_page.title | escape }}</a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+                  {%- for subpage_path in subpage_paths -%}
+                  {%- assign subpage = site.pages | where: "path", subpage_path | first -%}
+                  {%- if subpage.title -%}
+                  <li><a class="dropdown-item" href="{{ subpage.url | relative_url }}">{{ subpage.title | escape }}</a></li>
+                  {%- endif -%}
+                  {%- endfor -%}
+                </ul>
+              </li>
             {%- else -%}
-          <li class="nav-item">
-            <a class="nav-link {% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          </li>
+              <li class="nav-item">
+                <a class="nav-link {% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              </li>
             {%- endif -%}
-          {%- endif -%}
           {%- endfor -%}
         </ul>
       </div>
