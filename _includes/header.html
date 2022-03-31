@@ -3,7 +3,7 @@
   {%- assign top_level_page_paths = top_level_pages | map: "path" -%}
   {%- assign conference_pages = site.pages | where: "dir", "/" | where: "layout", "conference" | default_property: "current_conference", "false" -%}
   {%- assign current_conference_pages = conference_pages | where: "current_conference", "true" -%}
-  {%- assign past_conference_pages = conference_pages | where: "current_conference", "false" -%}
+  {%- assign past_conference_pages = conference_pages | where: "current_conference", "false" | sort: 'title' | reverse -%}
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
       <a class="navbar-brand" href="{{ "/" | relative_url }}">
