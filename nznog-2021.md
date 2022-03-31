@@ -2,8 +2,6 @@
 layout: conference
 title: NZNOG 2021
 permalink: /nznog-2021
-current_conference: true
-order: 1
 ---
 Announcement 15 October 2020
 
