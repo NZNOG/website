@@ -1,0 +1,1073 @@
+---
+# NOC list data source
+#
+# Structure:
+# - name (String) - Company name
+# - aliases (Array of strings) - Any additional / former names
+# - link (String) - URL to link to
+# - domains (Array of strings) - Responsible domain names
+# - asns (Array of integers) - Responsible ASNs
+# - phone_numbers (Array of strings) - Contact phone numbers
+# - emails (Array of strings) - Contact email addresses
+# - people (Array of strings) - Clueful people to name drop
+# - hours (String) - Contact hours
+#
+# When adding to this list, please ensure it is sorted alphanumerically
+# by name
+- name: 2degreesmobile
+  link: http://www.2degreesmobile.co.nz/
+  peeringdb_ids:
+    - 2695
+    - 10743
+  domains:
+    - '2degreesmobile.co.nz'
+    - '2degreesmobile.net.nz'
+    - 'nzcomms.co.nz'
+  asns:
+    - 38793
+  phone_numbers:
+    - '+64 9 919 7050'
+    - '0508 022 NOC (0508 022 662)'
+  emails:
+    - 'noc@2degreesmobile.co.nz'
+  hours: 24x7
+- name: 2talk
+  link: http://www.2talk.co.nz
+  domains:
+    - '2talk.co.nz'
+  asns:
+    - 55561
+  phone_numbers:
+    - '+64 9 281 4357'
+  emails:
+    - 'noc@2talk.co.nz'
+  hours: 24x7
+- name: ACSData
+  link: http://www.acsdata.co.nz/
+  domains:
+    - 'acsdata.co.nz'
+    - 'acsonline.co.nz'
+    - 'linuxnet.co.nz'
+  asns:
+    - 18119
+  phone_numbers:
+    - '+64 4 939 2200'
+  people:
+    - 'Lincoln Reid'
+    - 'Gareth Palmer'
+    - 'Daniel Giddens'
+  emails:
+    - 'noc@acsdata.co.nz'
+  hours: 24x7
+- name: Advantage
+  link: http://www.advantage.co.nz
+  domains:
+    - 'advantage.co.nz'
+    - 'superservers.co.nz'
+  asns:
+    - 45641
+  phone_numbers:
+    - '+64 6 358 8999'
+  emails:
+    - 'noc@advantage.co.nz'
+  hours: 24x7
+- name: Actrix
+  link: http://www.actrix.co.nz/
+  domains:
+    - 'actrix.co.nz'
+  asns:
+    - 9343
+  contact:
+    - '+64 4 385 5697 (24x7)'
+    - '+64 4 801 5225 (8x5)'
+  hours: 24x7
+- name: AmuriNet
+  link: http://www.amuri.net/
+  domains:
+    - 'amuri.net'
+    - 'amuri.net.nz'
+  asns:
+    - 45475
+  phone_numbers:
+    - '+64 3 315 8388'
+    - '+64 21 987 691'
+  people:
+    - 'Chris Roberts'
+  emails:
+    - 'admin@amuri.net'
+  hours: Office
+- name: Auckland University of Technology
+  link: http://www.aut.ac.nz/
+  domains:
+    - 'aut.ac.nz'
+  asns:
+    - 24398
+  phone_numbers:
+    - '+64 9 921 9007 option 2 for networks'
+  emails:
+    - 'noc@aut.ac.nz'
+  hours: 24x7
+- name: Baycity Communications
+  link: http://www.baycity.co.nz/
+  domains:
+    - 'baycity.co.nz'
+    - 'bccnz.com'
+    - 'farmside.co.nz'
+    - 'farmsideltd.co.nz'
+  asns:
+    - 55872
+    - 24548
+  phone_numbers:
+    - '+6436879700'
+    - '+6436879729'
+    - '+6436877742'
+  people:
+    - 'Stephen Ryall'
+    - 'M Asim Khan'
+    - 'Hayden Mallet'
+  emails:
+    - 'noc@bccnz.com'
+  hours: 8x5
+- name: BTG
+  link: http://www.btg.co.nz/
+  domains:
+    - 'btg.co.nz'
+  asns:
+    - 56028
+  phone_numbers:
+    - '+64 9 580 1374'
+  emails:
+    - 'noc@btg.co.nz'
+  hours: 24x7
+- name: CatalystIT
+  link: http://www.catalyst.net.nz/
+  domains:
+    - 'catalyst.net.nz'
+  asns:
+    - 24226
+  phone_numbers:
+    - '026 255 7433 (pager)'
+  emails:
+    - 'noc@catalyst.net.nz'
+  hours: 24x7
+- name: Compass Communications
+  link: http://www.compass.net.nz/
+  domains:
+    - 'compass.net.nz'
+    - 'ix.net.nz'
+    - 'netsource.net.nz'
+    - 'kwik.net.nz'
+    - 'free.net.nz'
+    - 'radionet.net.nz'
+    - 'radionet.co.nz'
+    - 'onthenet.co.nz'
+    - 'onthenet.net.nz'
+  asns:
+    - 9470
+    - 9245
+  phone_numbers:
+    - '+64 21 558 371'
+  emails:
+    - 'cns.operations@compass.net.nz'
+  hours: 24x7
+- name: Cello Communications
+  aliases:
+    - CCL Networks
+  link: http://www.cello.co.nz
+  domains:
+    - 'cello.co.nz'
+  asns:
+    - 4049
+    - 17484
+  phone_numbers:
+    - '0800 225 662'
+  emails:
+    - 'noc@cello.co.nz'
+  hours: 24x7
+- name: Connections
+  link: http://www.connections.net.nz/
+  domains:
+    - 'connections.net.nz'
+    - 'itnet.co.nz'
+  asns:
+    - 9872
+  phone_numbers:
+    - 'Please refer to info for actrix.co.nz above'
+  hours: 24x7
+- name: Datacom Systems
+  link: http://www.datacom.co.nz/
+  domains:
+    - 'datacom.co.nz'
+    - 'datacom.com.au'
+    - 'datacom.net.nz'
+  asns:
+    - 10022
+  phone_numbers:
+    - '+64 9 366 1024'
+  emails:
+    - 'idc@datacom.co.nz'
+  hours: 24x7
+- name: Data Solutions
+  link: http://www.datasolutions.net.nz/
+  domains:
+    - 'datasolutions.net.nz'
+    - 'dsnet.co.nz'
+  phone_numbers:
+    - '+64 3 339 3038 (Noc)'
+    - '0800 333 279 (Support)'
+  emails:
+    - 'noc@datasolutions.net.nz'
+  hours: 24x7
+- name: Digiweb NZ
+  link: http://www.digiweb.net.nz/
+  domains:
+    - 'digiweb.net.nz'
+    - 'discountdomains.co.nz'
+    - 'securepaytech.com'
+  asns:
+    - 24192
+  phone_numbers:
+    - '+64 3 351 6713'
+    - '0800 344 493'
+  emails:
+    - 'support@digiweb.net.nz'
+  hours: 24x7
+- name: Domainz
+  link: http://www.domainz.net.nz/
+  domains:
+    - 'domainz.net.nz'
+  asns:
+    - 9736
+  phone_numbers:
+    - '+64 4 473 4567'
+    - '+64 9 27 631 7870'
+  people:
+    - 'Tim John'
+    - 'Chris Pointon'
+  emails:
+    - 'admin@domainz.net.nz'
+  hours: Office
+- name: DTS Ltd
+  link: http://www.dts.net.nz/
+  domains:
+    - 'dts.net.nz'
+    - 'dtsanz.com'
+  asns:
+    - 24183
+  phone_numbers:
+    - '+64 4 918 0160'
+    - '0508 387669'
+  emails:
+    - 'noc@dts.net.nz'
+  hours: 24x7
+- name: Enable Fibre
+  link: https://www.enable.net.nz
+  phone_numbers:
+    - '0800 434 273 option 9'
+  emails:
+    - 'enable.faults@huaweiops.co.nz'
+  hours: 24x7
+- name: FusionDigital Communications
+  link: http://www.fdc.net.nz/
+  domains:
+    - 'fdc.net.nz'
+    - 'concert.net.nz'
+    - 'crystal.net.nz'
+    - 'atone.net.nz'
+  phone_numbers:
+    - '+64 800 500 332'
+  emails:
+    - 'netadmin@fdc.net.nz'
+  hours: 24x7
+- name: Global Gateway/ Netgate
+  link: http://www.global-gateway.net.nz/
+  domains:
+    - 'global-gateway.net.nz'
+    - 'netgate.net.nz'
+  asns:
+    - 4648
+  phone_numbers:
+    - '+64 9 363 5861 (Don)'
+  emails:
+    - 'noc@netgate.net.nz'
+  hours: Office
+- name: GodZone Internet Services
+  link: http://www.godzone.net.nz/
+  domains:
+    - 'godzone.net.nzgodzonemail.net'
+  asns:
+    - 38590
+  phone_numbers:
+    - '+64 6 357 8168'
+  emails:
+    - 'noc@godzone.net.nz'
+  people:
+    - 'Glen Eustace'
+  hours: 24x7
+- name: Hi-Tech Solutions
+  link: http://www.hitechsolutions.co.nz/
+  domains:
+    - 'hitechsolutions.co.nz'
+  asns:
+    - 133399
+  phone_numbers:
+    - '+64 9 4891502'
+  emails:
+    - 'noc@hitechsolutions.co.nz'
+  people:
+    - 'Lance Hope'
+  hours: 24x7
+- name: Inspire Net
+  link: http://www.inspire.net.nz/
+  domains:
+    - 'inspire.net.nz'
+  asns:
+    - 17705
+  phone_numbers:
+    - '+64 6 357 8559'
+    - '0800 484 363'
+  emails:
+    - 'noc@inspire.net.nz'
+  hours: 9am-9pm daily
+- name: Intellium Technology Limited
+  link: http://www.intellium.co.nz/
+  domains:
+    - 'intellium.co.nz'
+  asns:
+    - 132722
+  phone_numbers:
+    - '+64 9 6308118'
+    - 'noc@intellium.co.nz'
+  hours: 24x7
+- name: Internet Systems Consortium
+  link: http://www.isc.org/
+  domains:
+    - 'isc.org'
+    - 'f.root-servers.net'
+    - 'f.root-servers.org'
+  asns:
+    - 23710
+    - 3557
+  phone_numbers:
+    - '+1 650 423 1310'
+    - 'INOC-DBA 3557'
+  emails:
+    - 'noc@isc.org'
+  hours: 24x7
+- name: jsr.com
+  link: http://jsr.com/
+  domains:
+    - 'jsr.com'
+  asns:
+    - 9897
+  emails:
+    - 'jsr@jsr.com'
+  people:
+    - 'J S Russell'
+  hours: Office
+- name: Jsg Internet
+  link: http://jsg.net.nz/
+  domains:
+    - 'jsg.net.nz'
+  phone_numbers:
+    - '+64 3 545 7098'
+  emails:
+    - 'stewart@jsg.net.nz'
+  people:
+    - 'Stewart'
+  hours: 24x7
+- name: KC Computer Services
+  link: http://www.kcbbs.gen.nz/
+  domains:
+    - 'kcbbs.gen.nz'
+    - 'kc.net.nz'
+    - 'kccs.co.nz'
+  asns:
+    - 9303
+  phone_numbers:
+    - '+64 9 358 0045 (Office)'
+    - '+64 21 631 931 (Richard)'
+    - '+64 9 816 8088 (David)'
+    - '+64 21 663 078 (David)'
+  emails:
+    - 'noc@kc.net.nz'
+  people:
+    - 'David Dix'
+    - 'Richard Haakma'
+  hours: 24x7
+- name: Knossos Networks Ltd
+  link: http://knossos.net.nz/
+  domains:
+    - 'knossos.net.nz'
+  asns:
+    - 24006
+  phone_numbers:
+    - '+64 6 474 8888 (Office)'
+    - '+64 21 796 072 (Don Stokes)'
+    - '+64 21 796 073 (John Rumsey)'
+  emails:
+    - 'noc@knossos.net.nz'
+  people:
+    - 'Don Stokes'
+    - 'John Rumsey'
+  hours: Office
+- name: Kordia Limited
+  aliases:
+    - Broadcast Communications Ltd (BCL)
+  link: http://kordia.co.nz/
+  domains:
+    - 'kordia.co.nz'
+  asns:
+    - 24324
+  phone_numbers:
+    - '0508 225 358 (within NZ)'
+    - '+64 9 916 6532 (International)'
+    - '+64 9 916 6400 (Head Office Business Hours)'
+  emails:
+    - 'smc@kordia.co.nz'
+  hours: 24x7
+- name: Modica Group
+  aliases:
+    - OneSquared
+    - SonicMobile
+  link: http://modicagroup.com
+  domains:
+    - 'modicagroup.com'
+    - 'onesquared.net'
+    - 'sonicmobile.com'
+  asns:
+    - 7696
+    - 132456
+  phone_numbers:
+    - '+64 4 498 3486'
+  emails:
+    - 'noc@modicagroup.com'
+  people:
+    - 'Scott Wylie'
+    - 'Mark Goldfinch'
+    - 'Mark Wakefield'
+  hours: 24x7
+- name: Netspeed
+  link: http://www.netspeed.net.nz/
+  domains:
+    - 'netspeed.net.nz'
+  asns:
+    - 18159
+  phone_numbers:
+    - '+64 3 481 7245'
+  emails:
+    - 'noc@netspeed.net.nz'
+  people:
+    - 'Stan Rivett'
+  hours: 24x7
+- name: Network Service Providers (NSP)
+  link: http://www.nsp.net.nz/
+  domains:
+    - 'nsp.co.nz'
+    - 'nspfx.com'
+  asns:
+    - 136015
+  phone_numbers:
+    - '+64 9 3060234'
+  emails:
+    - 'noc@nsp.co.nz'
+  people:
+    - 'Graham Brown'
+  hours: 24x7
+- name: New Zealand Internet Exchange
+  aliases:
+    - NZIX
+  link: https://ix.nz/
+  domains:
+    - 'ix.nz'
+    - 'AKL-IX'
+    - 'CHC-IX'
+    - 'WLG-IX'
+  phone_numbers:
+    - '+6498889221'
+  emails:
+    - 'noc@ix.nz'
+  hours: 24x7
+- name: NZ Technology Group
+  link: http://nztechnologygroup.com/
+  domains:
+    - 'nztechnologygroup.com'
+    - 'onefibre.co.nz'
+  asns:
+    - 45280
+  phone_numbers:
+    - '+64 9 448 1250'
+    - '+6422 1020112'
+  emails:
+    - 'infrastructure@nztechnologygroup.com'
+  hours: Mon-Fri 8am - 5pm<br />Other - Cellphones
+- name: NOW NZ
+  aliases:
+    - Airnet
+  link: http://www.air.net.nz/
+  domains:
+    - 'nownz.co.nz'
+    - 'airnet.net.nz'
+    - 'airnet.co.nz'
+    - 'air.net.nz'
+  asns:
+    - 9876
+  phone_numbers:
+    - '+6466509911 (NOC)'
+  emails:
+    - 'noc@nownz.co.nz'
+  people:
+    - 'Gerald Williams'
+    - 'Kent Maynard'
+  hours: 24x7
+- name: nzWireless
+  link: http://www.nzwireless.co.nz/
+  domains:
+    - 'nzwireless.co.nz'
+    - 'gasp.co.nz'
+  asns:
+    - 24111
+  phone_numbers:
+    - '0800 699 473 (Office)'
+    - '+64 211 595 561 (Mobile)'
+  emails:
+    - 'noc@nzwireless.co.nz'
+  people:
+    - 'Chris Aspros'
+  hours: Office
+- name: OmniNet
+  link: http://www.omninet.co.nz
+  domains:
+    - 'omninet.co.nz'
+  asns:
+    - 132881
+  phone_numbers:
+    - '+64 7 929 7985'
+  emails:
+    - 'noc@omninet.co.nz'
+  hours: 24x7
+- name: Plan B
+  aliases:
+    - Solarix
+    - ICONZ
+    - Turnstone
+  link: http://www.planb.co.nz/
+  phone_numbers:
+    - '0800266846 option 2'
+  emails:
+    - 'faults@planb.co.nz'
+  asns:
+    - 132240
+    - 4770
+    - 23934
+  hours: 24x7
+- name: PlainCommunications
+  link: http://www.plain.co.nz/
+  domains:
+    - 'plain.co.nz'
+    - 'plain.net.nz'
+    - 'cyberxpress.co.nz'
+    - 'chch.planet.org.nz'
+  asns:
+    - 9559
+  phone_numbers:
+    - '+64 3 364-5888'
+  emails:
+    - 'noc@plain.co.nz'
+  people:
+    - 'Ben Aitchison'
+    - 'Robert Hunt'
+  hours: Office
+- name: PrimoWireless
+  link: http://primowireless.co.nz
+  domains:
+    - 'primowireless.co.nz'
+    - 'primo.nz'
+  phone_numbers:
+    - '+64 6 7566620'
+  emails:
+    - 'noc@staff.primowireless.co.nz'
+- name: ReiverNet Ltd
+  link: http://www.reivernet.com/
+  domains:
+    - 'reivernet.com'
+    - 'getin2net.com'
+  phone_numbers:
+    - '0800 116 113'
+    - '+64 9 573 5190'
+  emails:
+    - 'noc@reivernet.com'
+  people:
+    - 'Dylan Carruthers'
+    - 'Matthew Fenton'
+  hours: 24x7
+- name: Revera Limited
+  link: http://www.revera.co.nz/
+  domains:
+    - 'revera.co.nz'
+  asns:
+    - 18353
+  phone_numbers:
+    - '+64 9 442 8600'
+  emails:
+    - 'networkteam@revera.co.nz'
+  people:
+    - 'Kenneth Liew'
+    - 'Marc Nienkemper'
+  hours: 24x7
+- name: ServerWorks
+  link: http://www.serverworks.co.nz/
+  domains:
+    - 'serverworks.co.nz'
+    - 'surfspot.co.nz'
+  asns:
+    - 38294
+  phone_numbers:
+    - '+64 3 977 1750'
+  emails:
+    - 'support@serverworks.co.nz'
+  people:
+    - 'Russell Tester'
+  hours: Office
+- name: SMX Ltd
+  link: https://smxemail.com
+  domains:
+    - 'smx.co.nz'
+    - 'smxemail.co.nz'
+    - 'securemx.biz'
+  asns:
+    - 38451
+  phone_numbers:
+    - '0800769769'
+    - '+6493020515'
+  emails:
+    - 'noc@smxemail.com'
+  people:
+    - 'Thom Hooker'
+  hours: 8am-9pm Mon-Fri with callout
+- name: Snap Internet
+  link: http://www.snap.net.nz/
+  domains:
+    - 'snap.net.nz'
+  asns:
+    - 23655
+  phone_numbers:
+    - '0508 SNAPME (0800 762 747)'
+    - 'noc@snap.net.nz'
+  hours: 24x7
+- name: Spark (Telecom/Xtra)
+  link: http://www.spark.co.nz/
+  domains:
+    - 'spark.co.nz'
+    - 'xtra.co.nz'
+    - 'xtramsn.co.nz'
+    - 'bzone.co.nz'
+    - 'xtramail.co.nz'
+  asns:
+    - 4771
+    - 9325
+  phone_numbers:
+    - '+64 9 529 6898 (Helpdesk Operational Control Centre)'
+    - '0800 22 55 98 (Helpdesk Pilot)'
+  emails:
+    - 'noc@netgate.net.nz'
+  hours: 24x7
+- name: Telesmart
+  link: http://telesmart.co.nz/
+  domains:
+    - 'telesmart.co.nz'
+  asns:
+    - 133075
+  phone_numbers:
+    - '+6448964466'
+    - '+6421566047 (Tim Price)'
+    - '+64220204433 (Raj Sharma)'
+  emails:
+    - 'noc@telesmart.co.nz'
+  people:
+    - 'Tim Price'
+    - 'Raj Sharma'
+  hours: 24x7
+- name: thepacific.net Ltd
+  link: http://www.thepacific.net/
+  domains:
+    - 'thepacific.net'
+    - 'tpnet.nz'
+    - 'tpnet.co.nz'
+    - 'silkweb.net.nz'
+  asns:
+    - 37979
+  phone_numbers:
+    - '0800 TPNET NZ'
+    - '+64 543 9094'
+  emails:
+    - 'noc@tpnet.co.nz'
+  hours: Office / 24x7 Message
+- name: The Total Team
+  link: http://www.totalteam.co.nz
+  domains:
+    - 'totalteam.co.nz'
+    - '3t.net.nz'
+  asns:
+    - 56304
+  phone_numbers:
+    - '0800 888 326'
+  emails:
+    - 'workorder@totalteam.co.nz'
+  hours: 24x7
+- name: Treehouse Networks Ltd
+  link: http://www.treenet.co.nz/
+  domains:
+    - 'treenet.co.nz'
+    - 'treenetnz.com'
+  phone_numbers:
+    - '+64 21 293 4049'
+  emails:
+    - 'admin@treenetnz.com'
+  people:
+    - 'Amos Jeffries'
+  hours: 24x7
+- name: Trustpower
+  link: http://www.trustpower.co.nz/
+  domains:
+    - 'trustpower.co.nz'
+    - 'kinect.co.nz'
+  asns:
+    - 55850
+  phone_numbers:
+    - '+6475476107'
+  emails:
+    - 'noc@trustpower.co.nz'
+  hours: 24x7
+- name: Tussock Networks Limited
+  link: http://www.tussock.net.nz
+  domains:
+    - 'tussock.net.nz'
+    - 'lakesinternet.co.nz'
+  asns:
+    - 131227
+  phone_numbers:
+    - '0800 663 456'
+    - 'noc@tussock.net.nz'
+  hours: 24x7
+- name: UCS Limited / UFONE
+  link: http://ultrafast.co.nz
+  domains:
+    - 'ufone.co.nz'
+    - 'ucs.net.nz'
+  asns:
+    - 134220
+  phone_numbers:
+    - '+64 9 222 3878'
+  emails:
+    - 'noc@ufone.co.nz'
+  hours: 24x7
+- name: Ultrafast Fibre
+  link: http://wwwultrafastfibre.co.nz/
+  domains:
+    - 'ultrafast.co.nz'
+  phone_numbers:
+    - '0800 833 622 option 3'
+    - 'noc@ultrafast.co.nz'
+  hours: 24x7
+- name: UniFone New Zealand Ltd
+  link: http://www.unifone.net.nz/
+  domains:
+    - 'unifone.net.nz'
+  phone_numbers:
+    - '0800 894 114'
+    - '+64 29 763 8911'
+  emails:
+    - 'travis@unifone.net.nz'
+  people:
+    - 'Travis Baird'
+  hours: 24x7
+- name: University of Auckland
+  link: http://www.auckland.ac.nz/
+  domains:
+    - 'auckland.ac.nz'
+    - 'ace.ac.nz'
+  asns:
+    - 9431
+  phone_numbers:
+    - '+64 9 308 2373'
+  emails:
+    - 'operators@auckland.ac.nz'
+  hours: 24x7
+- name: Velocity Net
+  link: http://velocitynet.co.nz
+  domains:
+    - 'velocitynet.co.nz'
+  asns:
+    - 132268
+  phone_numbers:
+    - '+64 3 218 4489'
+    - '+64 27 210 1916'
+  emails:
+    - 'noc@velocitynet.co.nz'
+  people:
+    - 'Nigel Ferguson'
+  hours: Office
+- name: Velocity Networks
+  link: http://www.velocitynetworks.co.nz/
+  domains:
+    - 'velocitynetworks.co.nz'
+  phone_numbers:
+    - '+64 7 929 2118 (bus hrs)'
+    - '+64 21 221 3999 (Shane)'
+    - '+64 7 957 0020 (24x7)'
+  emails:
+    - 'noc@velocitynetworks.co.nz'
+  people:
+    - 'Shane Hobson'
+  hours: 24x7
+- name: Vetta Online
+  domains:
+    - 'vetta.online'
+    - 'vetta.co.nz'
+  asns:
+    - 64073
+    - 132918
+  phone_numbers:
+    - 'Support - +64 3 222 6200'
+    - 'NOC - +64 3 222 6111'
+  emails:
+    - 'noc@vetta.net'
+  hours: 24x7
+- name: vibe Communications
+  aliases:
+    - Devoli
+    - Layer 2 Co
+  domains:
+    - 'vibecom.co.nz'
+  asns:
+    - 45177
+  phone_numbers:
+    - '+64 9 222 000'
+    - '+64275672746 (Callum Barr)'
+  emails:
+    - 'noc@vibecom.co.nz'
+  people:
+    - 'Callum Barr'
+- name: Vital
+  aliases:
+    - CityLink Ltd
+    - Araneo
+  link: https://vital.co.nz/
+  domains:
+    - 'vital.co.nz'
+    - 'nzix.net'
+    - 'ape.net.nz'
+    - 'wix.net.nz'
+    - 'chix.net.nz'
+    - 'araneo.net.nz'
+  asns:
+    - 9439
+    - 9560
+    - 24388
+  phone_numbers:
+    - '+64 4 802 1470'
+    - '0800 101 900'
+  emails:
+    - 'notify@vital.co.nz'
+  hours: 24x7
+- name: Vista Entertainment Solutions
+  link: http://www.vista.co
+  domains:
+    - 'vista.co'
+    - 'vista.co.nz'
+    - 'vistagroup.co.nz'
+    - 'veezi.com'
+  asns:
+    - 58631
+  phone_numbers:
+    - '+64 9 9844666'
+  emails:
+    - 'noc@vista.co'
+  people:
+    - 'Christoph Berthoud'
+  hours: Office
+- name: Vocus Communications
+  link: http://www.vocus.co.nz/
+  domains:
+    - 'vocus.com.au'
+    - 'vocus.net.au'
+  asns:
+    - 4826
+  phone_numbers:
+    - '+61 2 8999 8999 (office)'
+    - '+61 2 8117 5909 (NOC direct)'
+  emails:
+    - 'noc@vocus.com.au'
+  hours: 24x7
+- name: VocusGroup New Zealand
+  link: https://www.vocus.co.nz
+  domains:
+    - 'Vocus.co.nz'
+  asns:
+    - 9503
+    - 18406
+    - 9889
+    - 9790
+    - 17746
+    - 18352
+  peeringdb:
+    - 3798
+  hours: 24x7
+- name: Vodafone
+  link: http://www.vodafone.co.nz/
+  domains:
+    - 'vodafone.co.nz'
+  asns:
+    - 9500
+    - 7657
+    - 17808
+  phone_numbers:
+    - '0800 777 770 (NZ)'
+    - '+64 9 355 2313 (Outside NZ)'
+  emails:
+    - 'noc.nz@vodafone.com'
+  hours: 24x7
+- name: Vorco
+  link: http://www.vorco.net
+  domains:
+    - 'vorco.net'
+    - 'vorco.net.nz'
+  asns:
+    - 58666
+  phone_numbers:
+    - '+64 9 222 2222 (Bus. Hours)'
+    - '+64 9 950 2222 (A/H)'
+    - 'noc@vorco.net'
+- name: Voyager Internet
+  link: https://voyager.nz
+  domains:
+    - 'voyager.nz'
+    - 'voyager.co.nz'
+    - 'net24.co.nz'
+    - '1stdomains.nz'
+    - '1stdomains.co.nz'
+    - 'hd.net.nz'
+  phone_numbers:
+    - '0800 4 SPEED / 09 444 4444 (General)'
+    - '09 666 6662 (NOC)'
+  emails:
+    - 'support@voyager.nz'
+    - 'noc@voyager.nz'
+  hours: 24x7
+- name: WASP NZ Limited
+  link: http://www.waspnet.co.nz/
+  domains:
+    - 'waspnet.co.nz'
+    - 'inhb.co.nz'
+  phone_numbers:
+    - '0800 STINGER'
+    - '+64 6 835 5800'
+  emails:
+    - 'noc@waspnet.co.nz'
+  people:
+    - 'Daryl Morrell'
+  hours: Office
+- name: WebSlice Limited
+  link: http://www.webslice.co.nz/
+  domains:
+    - 'webslice.co.nz'
+  asns:
+    - 132919
+  phone_numbers:
+    - '0800 002365'
+  emails:
+    - 'noc@webslice.co.nz'
+  hours: 24x7
+- name: WheroNet
+  link: http://www.wheronet.co.nz/
+  domains:
+    - 'wheronet.co.nz'
+    - 'whero.net.nz'
+  asns:
+    - 136463
+  phone_numbers:
+    - '+64 9 232 8282'
+    - '+64 21 2355 979'
+  emails:
+    - 'noc@whero.net.nz'
+  people:
+    - 'John Burns'
+  hours: 24x7<br />8a-8p (Non-urgent)
+- name: Wireless Nation
+  link: http://www.wirelessnation.co.nz/
+  domains:
+    - 'wirelessnation.co.nz'
+    - 'wirelessnation.net.nz'
+    - 'wnation.co.nz'
+    - 'wnation.net.nz'
+    - 'wirelessnation.nz'
+  asns:
+    - 132449
+  phone_numbers:
+    - '0800 101 143'
+  emails:
+    - 'noc@wnation.net.nz'
+  hours:
+    - '8a-8p: Mon - Fri<br />9a-5p: Sat, Sun, Public holidays'
+- name: WorldNet
+  link: http://www.world-net.co.nz/
+  domains:
+    - 'world-net.co.nz'
+  asns:
+    - 18199
+  phone_numbers:
+    - '+64 9 309-9161'
+  emails:
+    - 'noc@world-net.co.nz'
+  hours: 24x7
+- name: Vodafone Next Generation Services Ltd
+  aliases:
+    - WXCCommunications
+  link: http://www.wxc.co.nz/
+  domains:
+    - 'wxnz.net'
+    - 'wxc.co.nz'
+    - 'xnet.co.nz'
+  asns:
+    - 17435
+  phone_numbers:
+    - '0800 992 662'
+  emails:
+    - 'noc@wxc.co.nz'
+  people:
+    - 'Leigh Smith'
+  hours: 24x7
+- name: Xtreme Networks Ltd
+  link: http://www.xtreme.co.nz/
+  domains:
+    - 'xtreme.net.nz'
+    - 'xtreme.co.nz'
+  asns:
+    - 18400
+    - 132870
+  phone_numbers:
+    - '0800 469 873 (Office)'
+    - '+64 4 4740 773 (Dion ddi)'
+    - '+64 21 755 873 (Dion m/p)'
+    - '+64 4 4740 772 (Mike Lee ddi)'
+    - '+64 21 755 872 (Mike Lee m/p)'
+  emails:
+    - 'noc@xtreme.net.nz'
+  people:
+     - Dion Hallam
+     - Mike Lee
+  hours: 24x7
+- name: Yrless Ltd
+  link: http://www.yrless.co.nz/
+  domains:
+    - 'yrless.co.nz'
+    - 'yrless.nz'
+  asns:
+    - 132588
+  phone_numbers:
+    - '0508 975 377'
+    - '021 1682532'
+  emails:
+    - 'noc@yrless.nz'
+  hours: 24x7
