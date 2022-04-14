@@ -2,6 +2,8 @@
 layout: conference
 title: NZNOG 2022 Postponement
 ---
+**NOTE: This page is now obsolete**
+
 **NZNOG 2022 Postponed**
 
 With New Zealand moving to the Red setting in the COVID-19 Protection Framework, NZNOG 2022 cannot proceed on Jan 26-28 2022 and is postponed until May. 

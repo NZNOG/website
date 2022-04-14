@@ -8,7 +8,7 @@ order: 1
 
 The NZNOG Trust is pleased to announce the next NZNOG conference.
 
-**NZNOG 2022 has been postponed.** [Please read more here.](nznog-2022/nznog-2022-postponement.html)
+**NZNOG will run May 18-20 2022 after being postponed.**
 
 **Where :** Intercontinental Hotel, Wellington<br />
 **Cost :** $300 early bird, $350 full price.<br />
@@ -24,5 +24,7 @@ Note that Early Bird registration is open until Dec 17.
 
 Accomodation is available from the Intercontinental, and other nearby hotels. See the [Accomodation](nznog-2022/nznog-2022-accommodation.html) page for details.
 
-**Covid-19 statement**
-NZNOG has been running for many years and is highly regarded for both its content and the community aspect of the conference. Due to this, if the ongoing COVID-19 Pandemic does not allow our standard, expected conference in January 2022, the NZNOG Trustees will postpone or cancel the conference. We have secured backup dates in May 2022, however, if this is still impacted by COVID-19 we will need to cancel for 2022.
+## Covid-19 statement
+NZNOG has been running for many years and is highly regarded for both its content and the community aspect of the conference. The conference has been delayed from January until May. We may still need to cancel the May conference if conditions do now allow the conference to take place.
+
+Please note, that even with the protection of vaccines that our vaccine mandate gives, that Covid spread may happen at the conference.
