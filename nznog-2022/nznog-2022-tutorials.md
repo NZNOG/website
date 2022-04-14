@@ -5,7 +5,7 @@ title: NZNOG 2022 Tutorials
 **Cost :** $50 per tutorial/workshop
 
 ## Ansible Network Automation
-**Date: Wednesday 26 January 2022**
+**Date: Wednesday 18 May 2022**
 
 The Ansible Network Automation workshop is a comprehensive beginners guide to automating popular network data center devices from Arista, Cisco and Juniper via Ansible playbooks. You’ll learn how to pull facts from devices, build templated network configurations, and apply these concepts at scale with Ansible automation controller. You’ll put it all together by exploring the controller’s job templates, surveys, access controls and more.
 
@@ -20,7 +20,7 @@ Each Participant will be working in their own dedicated environment comprising o
 Automation controller web UI Visual Studio Code (including a terminal) with optional direct SSH access
 
 ## APNIC Internet Routing
-**Date: Wednesday 26 January 2022**
+**Date: Wednesday 18 May 2022**
 
 This will be a day long tutorial covering the following topics:
 

@@ -10,7 +10,7 @@ Our annual conference provides both an opportunity to exchange technical informa
 
 We held no NZNOG in 2021 due to Covid-19.
 
-[NZNOG Conference 2022](nznog-2022) is planned to be held in Wellington at the Intercontinental Hotel. [The conference has been postponed.](nznog-2022/nznog-2022-postponement)
+[NZNOG Conference 2022](nznog-2022) will be held May 18-20 2022 in Wellington, at the Intercontinental Hotel.
 
 The [NZNOG Conference 2020](nznog-2020) was held in Christchurch.
 
