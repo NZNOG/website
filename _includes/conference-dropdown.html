@@ -1,0 +1,33 @@
+{%- for my_page in include.conferences -%}
+  {%- if my_page.title -%}
+    {%- if my_page.subpages.size > 0 -%}
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle{% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="#" data-bs-toggle="dropdown" role="button" aria-expanded="false">{{ my_page.title | escape }}</a>
+        <ul class="dropdown-menu">
+          {%- if my_page.external_link -%}
+            <li><a class="nav-link dropdown-item" href="{{ my_page.external_link }}" target="_blank">{{ my_page.title | escape }}</a></li>
+          {%- else -%}
+            <li><a class="nav-link dropdown-item{% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+          {%- endif -%}
+          {%- for subpage in my_page.subpages -%}
+            {%- if subpage.title -%}
+              {%- if subpage.external_link -%}
+                <li><a class="nav-link dropdown-item" href="{{ subpage.external_link }}" target="_blank">{{ subpage.title | escape }}</a></li>
+              {%- else -%}
+                <li><a class="nav-link dropdown-item{% if page.url == subpage.url %} active" aria-current="page{%- endif -%}" href="{{ subpage.url | relative_url }}">{{ subpage.title | escape }}</a></li>
+              {%- endif -%}
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </li>
+    {%- else -%}
+      <li class="nav-item">
+        {%- if my_page.external_link -%}
+          <a class="nav-link" href="{{ my_page.external_link }}" target="_blank">{{ my_page.title | escape }}</a>
+        {%- else -%}
+          <a class="nav-link{% if page.url == my_page.url %} active" aria-current="page{%- endif -%}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        {%- endif -%}
+      </li>
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}

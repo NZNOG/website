@@ -52,3 +52,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  conferences:
+    output: true
+
+defaults:
+-
+  scope:
+    type: conferences
+  values:
+    layout: conference
