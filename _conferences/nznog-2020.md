@@ -1,7 +1,7 @@
 ---
 title: NZNOG 2020 brought to you by Cisco
 ---
-![Cisco Logo](Cisco_Logo_no_TM_Cisco_Blue-RGB.jpg){:height="105px" class="mx-auto d-block"}
+![Cisco Logo](/sponsor-logos/Cisco_Logo_no_TM_Cisco_Blue-RGB.jpg){:height="105px" class="mx-auto d-block"}
 
 Streaming URL: [https://youtu.be/4xGxotBk8AM](https://youtu.be/4xGxotBk8AM)
 
