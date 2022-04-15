@@ -3,3 +3,7 @@
 /.jekyll-cache
 /.jekyll-metadata
 /vendor
+
+# Ignore Mac DS_Store files
+.DS_Store
+**/.DS_Store
