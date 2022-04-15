@@ -1,6 +1,6 @@
 ---
 layout: conference
-Title: NZNOG 2022 Welcome Event
+title: NZNOG 2022 Welcome Event
 ---
 
 This year we'll be hosting our Wednesday night welcome event at the Intercontinental, Wellington.
