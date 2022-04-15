@@ -59,10 +59,3 @@ exclude:
 collections:
   conferences:
     output: true
-
-defaults:
--
-  scope:
-    type: conferences
-  values:
-    layout: conference
