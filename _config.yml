@@ -53,6 +53,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+exclude:
+  - README.md
+
 collections:
   conferences:
     output: true
