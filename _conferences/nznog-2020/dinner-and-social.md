@@ -7,11 +7,11 @@ This year we'll be hosting our Thursday night social at [Blue Smoke at The Tanne
 ## Sponsors
 
 **Dinner Proudly Sponsored By**<br/>
-![(nznog-2020-dinner-and-social/Vocus.jpg)](nznog-2020-dinner-and-social/Vocus.jpg){: width="200"}
+![(nznog-2020-dinner-and-social/Vocus.jpg)](/sponsor-logos/nznog-2020-dinner-and-social/Vocus.jpg){: width="200"}
 {: style="text-align: center;"}
 
 **Drinks Proudly Sponsored By**<br/>
-![https://www.vodafone.co.nz/](nznog-2020-dinner-and-social/New_VF_Logo_Horiz_PMS485_RED.jpg){: width="200"}
+![https://www.vodafone.co.nz/](/sponsor-logos/New_VF_Logo_Horiz_PMS485_RED.jpg){: width="200"}
 {: style="text-align: center;"}
 
 ## Details

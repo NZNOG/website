@@ -26,7 +26,7 @@ Without their help NZNOG would just not be viable so please support them if you 
 {: style="text-align: center;"}
 
 ## Streaming Sponsor
-[![https://www.cisco.com/](/sponsor-logos/Cisco_Logo_no_TM_Cisco_Blue-RGB.jpeg){: width="320"}](https://www.cisco.com/)
+[![https://www.cisco.com/](/sponsor-logos/Cisco_Logo_no_TM_Cisco_Blue-RGB.jpg){: width="320"}](https://www.cisco.com/)
 {: style="text-align: center;"}
 
 ## Silver Sponsors
