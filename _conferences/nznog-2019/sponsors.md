@@ -50,7 +50,7 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://www.netcommwireless.com/](/sponsor-logos/NetComm.jpg){: width="320"}](https://www.netcommwireless.com/)
 {: style="text-align: center;"}
 
-[![https://www.inveho.nz/](/sponsor-logos/Inveho Cat Security v2-03.jpg){: width="320"}](https://www.inveho.nz/)
+[![https://www.inveho.nz/](/sponsor-logos/inveho.jpg){: width="320"}](https://www.inveho.nz/)
 {: style="text-align: center;"}
 
 [![https://www.searchlight.nz/](/sponsor-logos/searchlight-png.png){: width="320"}](https://www.searchlight.nz/)
