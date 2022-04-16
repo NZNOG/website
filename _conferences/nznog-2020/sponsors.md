@@ -56,7 +56,7 @@ Without their help NZNOG would just not be viable so please support them if you 
 {: style="text-align: center;"}
 
 ## COMMUNITY SPONSORS
-[![https://www.inveho.nz](/sponsor-logos/Inveho logo.jpg){: width="320"}](https://www.inveho.nz/)
+[![https://www.inveho.nz](/sponsor-logos/inveho.jpg){: width="320"}](https://www.inveho.nz/)
 {: style="text-align: center;"}
 
 [![https://www.searchlight.nz](/sponsor-logos/SearchLight Logo.png){: width="320"}](https://www.searchlight.nz/)
