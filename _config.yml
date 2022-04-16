@@ -56,6 +56,12 @@ plugins:
 exclude:
   - README.md
 
+defaults:
+- scope:
+    type: conferences
+  values:
+    layout: page
+
 collections:
   conferences:
     output: true
