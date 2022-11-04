@@ -10,6 +10,7 @@ Our annual conference provides both an opportunity to exchange technical informa
 
 We held no NZNOG in 2021 due to Covid-19.
 
+[NZNOG Conference 2023](conferences/nznog-2023) will be held in Rotorua, at the Rydges Hotel, on March 23-24 2023.
 
 The [NZNOG Conference 2022](conferences/nznog-2022) was held in Wellington.
 
