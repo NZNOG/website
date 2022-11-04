@@ -82,11 +82,6 @@ Timo is Chief Technologist, Telco Technology Development at Red Hat Global .
 
 Mr. Jokiaho works with network equipment providers, system integrators, independent software vendors and communications service providers to further open network function virtualization (NFV) and telco cloud initiatives with containers. His work encompasses enhancements to networking performance, real time characteristics, availability and strategic use cases like virtualized / containerized radio access networks (vRAN).
 
-## Matt Cornish
-2talk
-
-_How I used the network to entertain the teams during lockdown_
-
 ## Dan Faulknor
 Prodigi
 
@@ -95,13 +90,6 @@ _Bootstrapping an ISP_
 This is the story of accidentally starting an ISP, with no budget (or experience). Follow along the number 8 wire journey from August 2018 to December 20th, 2021. From 1 server in 1RU at 220 Queen Street, to 'service given' on a Chorus handover in Mount Eden. Hear about the scenarios that lead to quotes such as "well that tunnel should not be working but it is" (from the "Da-da-dadada-dada circus" department), "surely it's not MTU" (surprisingly, only partially related), "that is not the traffic path I expected" (or: accidentally getting "free" transit), "are you sure you need HyperFibre?" (spoiler: probably not) and "Oh, there really isn't an ONT!" (lesson: the customer isn't always right).
 
 Dan started his first company at age 16, finally going full time in April 2018 with Prodigi. He has worked all over the IT spectrum from education IT to inhouse IT to IT service provider. Now he does all of these things and more, including somehow finding time to build and run an ISP!
-
-## John Greenhough
-Crown Infrastructure Partners
-
-_Update on UFB/RBI and new projects_
-
-John joined Crown Infrastructure Partners in May 2010 after 27 years in the Telecommunications industry. Prior to his appointment as CTO, John held various roles in Telecom New Zealand Limited, and was Head of Technology Strategy at the time of his departure. Previous roles have included Director of Networks for large business and residential ISPs in Australia and New Zealand, Head of Networks for AAPT, an Australian carrier, and various engineering and architectural roles in Telecom New Zealand.
 
 ## Reinhart Hansen
 **Video presentation**
@@ -115,6 +103,19 @@ DDoS attacks are on the rise, with a clear trend towards shorter, higher volume 
 Reinhart is Director of Technology, Office of the CTO, Imperva
 
 Experienced Cyber Security & IT professional with a demonstrated history of working in technology advisory, architecture, solution design and pre-sales roles. Strong background in all facets of IT majoring in Data Security & Communications with a Bachelor of Computer Science from RMIT University.
+
+## Conrad Bullock & Noel Thompson
+
+Arista
+
+_The Road to 800G and Beyond_
+
+With the ever increasing demand for more bandwidth, the three most important attributes for optics are cost, power, and compatibility. In this presentation we will briefly review 400G (including 400G-ZR, ZR+ and OpenZR+), and then discuss how the transition to 800G and 1600G optics will enable networks to evolve in the most cost effective, power efficient and compatible fashion.
+
+Conrad Bullock is a Wellington-based Systems Engineer at Arista Networks. He has recently joined Arista after roles at Citrix and 15 years at Cisco Systems concentrating on Data Centre solutions.
+
+Noel Thompson is based out of Auckland as a System Engineer at Arista Networks. He has been with Arista for 2 years, previously with Cisco. Noel has a background with service provider networks and Data Centre.
+
 
 ## Hamid Maani
 Hawaiki
@@ -153,3 +154,23 @@ Sitehost
 _Solar powered clouds_
 
 In 2021 we installed 384 solar panels on our roof to power our datacenter. This currently means that on a hot summers day that we are fully powered off the sun. In this talk I will go over why we chose solar, what the process looked like and some numbers out the other side.Bio: Quintin is the Technical Director and co-founder of SiteHost in New Zealand. He comes from a development background and has spent the last 18 years becoming an expert in more technologies than we have room to list. Quintin now runs enough infrastructure to ensure that he rarely gets a good night sleep, but he still happily gets up at 3am to look after our customers’ servers. Since 2019 he has led the development of Webslice, a unique PHP-focused serverless hosting platform. When he’s not looking after the SiteHost infrastructure he likes to play football and has recently taken up squash.
+
+## Rich Bayliss
+Arista Networks
+
+_Build your own automation adventure_
+
+The glory days of hardware based labs have passed us by, and modern carrier labs are heavily reliant on software based testing platforms such as GNS3 and EVE-NG.  While spinning up a few virtual machines is a straight forward process, how can we extend these virtual labs to help validate service design and configuration?
+How can we increase our efficiency with automated testing, particularly of new versions of operating system and upcoming production changes?
+How can we build reusable, repeatable lab frameworks?
+This talk will attempt to address these questions, providing a vendor neutral introduction to virtual lab environments, pros and cons of containerised testing, open-source automation tools (Ansible) and methods for simplifying scenario automation.
+
+
+
+Director of Systems Engineering, APJ.
+
+Rich works with customers to define a common strategy to migrate complex legacy networks to simplified, software-driven networks.
+
+Rich places particular emphasis on the necessary changes to achieve security, reliability and operational efficiency through the use of agile operations and proven web-scale architectures.
+
+Rich has been internationally recognised for his contribution to the development of new networking standards and architectures.

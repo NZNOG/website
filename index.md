@@ -10,11 +10,12 @@ Our annual conference provides both an opportunity to exchange technical informa
 
 We held no NZNOG in 2021 due to Covid-19.
 
-[NZNOG Conference 2022](nznog-2022) will be held May 18-20 2022 in Wellington, at the Intercontinental Hotel.
 
-The [NZNOG Conference 2020](nznog-2020) was held in Christchurch.
+The [NZNOG Conference 2022](conferences/nznog-2022) was held in Wellington.
 
-The [NZNOG Conference 2019](nznog-2019) was held in Napier.
+The [NZNOG Conference 2020](conferences/nznog-2020) was held in Christchurch.
+
+The [NZNOG Conference 2019](conferences/nznog-2019) was held in Napier.
 
 ## Mailing List
 The NZNOG mailing list is NZNOG. NZNOG is the mailing list. Given this definition it isn't surprising that many threads are circular. The NZNOG mailing list is intended for the discussion of technical issues relating to networking in New Zealand.

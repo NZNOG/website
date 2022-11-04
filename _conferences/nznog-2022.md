@@ -1,7 +1,5 @@
 ---
 title: NZNOG 2022
-current_conference: true
-order: 1
 ---
 
 The NZNOG Trust is pleased to announce the next NZNOG conference.
