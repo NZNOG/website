@@ -847,10 +847,9 @@
 - name: Vetta Online
   domains:
     - 'vetta.online'
-    - 'vetta.co.nz'
+    - '64073.as'
   asns:
     - 64073
-    - 132918
   phone_numbers:
     - 'Support - +64 3 222 6200'
     - 'NOC - +64 3 222 6111'
