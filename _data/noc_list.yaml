@@ -587,6 +587,27 @@
     - '+64 6 7566620'
   emails:
     - 'noc@staff.primowireless.co.nz'
+- name: Prodigi Technology Services Ltd
+  aliases:
+    - Prodigi
+    - Internet by Design (former)
+  link: https://prodigi.nz
+  peeringdb_ids:
+    - 19695
+    - 28866
+  domains:
+    - 'prodigi.nz'
+  asns:
+    - 138938
+    - 139074
+  phone_numbers:
+    - '+64 9 283 0758'
+  emails:
+    - 'noc@prodigi.nz'
+  hours: 24x7
+  people:
+    - 'Dan Faulknor'
+    - 'Mike Beattie'
 - name: ReiverNet Ltd
   link: http://www.reivernet.com/
   domains:
