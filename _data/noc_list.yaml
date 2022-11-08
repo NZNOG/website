@@ -488,6 +488,8 @@
   emails:
     - 'noc@ix.nz'
   hours: 24x7
+  peeringdb_ids:
+  - 13304
 - name: NZ Technology Group
   link: http://nztechnologygroup.com/
   domains:
