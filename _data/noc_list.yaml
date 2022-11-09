@@ -857,7 +857,7 @@
     - 'noc@vetta.net'
   hours: 24x7
   peeringdb_ids:
-  - 6836
+    - 6836
 - name: vibe Communications
   aliases:
     - Devoli
