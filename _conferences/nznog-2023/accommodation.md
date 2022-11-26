@@ -5,7 +5,7 @@ title: NZNOG 2023 Accommodation
 NZNOG 2023 is being held at the Rydges Hotel, Rotorua.
   
 ## Rydges Hotel
-We have secured a delegate rate for all conference attendees.
+We have secured a delegate rate for the conference attendees.
 
 We will add the booking link to this page soon.
 
