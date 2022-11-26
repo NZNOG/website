@@ -11,7 +11,7 @@ NZNOG 2023 will be held in Rotorua, New Zealand, at the Rydges Hotel.
 | Friday 24 March |  | X  |  |  |
 {: class="table table-bordered text-center"}
 
-Accomodation will be available from Rydges, and other nearby hotels. See the [Accomodation](nznog-2023/nznog-2023-accommodation.html) page for details when they become available.
+Accomodation will be available from Rydges, and other nearby hotels. See the [Accommodation](nznog-2023/nznog-2023-accommodation.html) page for details when they become available.
 
 More details will be posted here when available. Expect a call for papers and an announcement when registrations open. A discount code will be available for the hotel. From our negotiations with hotels it has become clear that due to the return of tourism, accommodation could be in short supply so we recommend booking early.
 
