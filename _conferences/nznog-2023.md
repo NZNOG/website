@@ -1,5 +1,7 @@
 ---
 title: NZNOG 2023
+current_conference: true
+order: 1
 ---
 
 NZNOG 2023 will be held in Rotorua, New Zealand, at the Rydges Hotel.
