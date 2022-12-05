@@ -10,7 +10,7 @@ NZNOG 2023 will be held in Rotorua, New Zealand, at the Rydges Hotel.
 | --- | --- | --- | --- | --- |
 | Monday 20 March    | [X](nznog-2023/workshops-and-tutorials) | | | |
 | Tuesday 21 March   | [X](nznog-2023/workshops-and-tutorials) | | | |
-| Wednesday 22 March | [X](nznog-2023/workshops-and-tutorials) | [X](nznog-2023/workshops-and-tutorials) | | Welcome Drinks |
+| Wednesday 22 March | [X](nznog-2023/workshops-and-tutorials) | [X](nznog-2023/workshops-and-tutorials) | | [Welcome Drinks](nznog-2023/welcome-drinks) |
 | Thursday 23 March  |     | | [X](nznog-2023/programme) | [Dinner and Social](nznog-2023/dinner-and-social) | |
 | Friday 24 March    |     | | [X](nznog-2023/programme) | | |
 {: class="table table-bordered text-center"}
