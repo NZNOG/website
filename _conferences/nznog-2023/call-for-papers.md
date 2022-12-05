@@ -19,4 +19,4 @@ Presenters are invited to submit presentation proposals for consideration by 30 
 
 Normally presentations are 30 min long, are video streamed live and slide decks are posted to the NZNOG website.  If you want a different duration or other arrangements please let us know at submission time.
 
-To submit your proposal please e-mail: talks@nznog.org
+To submit your proposal please e-mail: [talks@nznog.org](mailto:talks@nznog.org)
