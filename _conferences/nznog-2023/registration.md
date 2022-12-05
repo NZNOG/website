@@ -1,5 +1,4 @@
 ---
 title: NZNOG 2023 Registration
+external_link: https://nznog-2023.lilregie.com/
 ---
-
-Registration for NZNOG 2023 is planned to open Dec 5 2022
