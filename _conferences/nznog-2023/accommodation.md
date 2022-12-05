@@ -14,7 +14,7 @@ Special NZNOG room rates have a block reserved, however this will be released on
 * Guests are responsible for payment of the room direct to the hotel.
 * If cancellation/postponement is required due to Covid-19 lockdowns or restrictions, no penalty will be charged
 
-Booking link: https://www.rydges.com/private-page/new-zealand-network-operators-group/
+Booking link: [https://www.rydges.com/private-page/new-zealand-network-operators-group/](https://www.rydges.com/private-page/new-zealand-network-operators-group/)
 
 ## Other Hotels
 
@@ -24,4 +24,4 @@ Regal Palms is approx a 10 minute / 750m walk from Rydges.
 
 We can offer a discounted rate of $229 per night for the superior studio room.
 
-Email experience@regalpalms.co.nz or phone 073503232 and advise that you are attending the NZNOG conference at Rydges, in order to receive this rate.
+Email [experience@regalpalms.co.nz](mailto:experience@regalpalms.co.nz) or phone 073503232 and advise that you are attending the NZNOG conference at Rydges, in order to receive this rate.
