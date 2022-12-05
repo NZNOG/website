@@ -22,4 +22,4 @@ Below are some useful links:
 
 We do have arrangements in place to allow postponement of the conference if the pandemic resurges but at this stage we do not anticipate that it will be necessary.
 
-We are seeking sponsors and will have a sponsorship document available. For details contact sponsorship@nznog.org.
+We are seeking sponsors and will have a sponsorship document available. For details contact [sponsorship@nznog.org](mailto:sponsorship@nznog.org).
