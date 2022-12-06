@@ -24,6 +24,7 @@ From our negotiations with hotels it has become clear that due to the return of 
 Below are some useful links:
 - [Call For Papers](nznog-2023/call-for-papers)
 - [Registration](https://nznog-2023.lilregie.com/)
+- [Anti-Harassment Policy](/conference-anti-harassment-policy)
 
 We do have arrangements in place to allow postponement of the conference if the pandemic resurges but at this stage we do not anticipate that it will be necessary.
 
