@@ -1,4 +1,4 @@
-{%- assign top_level_pages = site.pages | where: "dir", "/" | where_exp: "page", "page.title != nil" | default_property: "order", "10" | sort: "order" -%}
+{%- assign top_level_pages = site.pages | where: "dir", "/" | where_exp: "page", "page.title != nil" | where_exp: "page", "page.hide == nil or page.hide != true" | default_property: "order", "10" | sort: "order" -%}
 {%- assign top_level_page_paths = top_level_pages | map: "path" -%}
 
 {%- assign conference_pages = site.conferences | collection_page_tree | default_property: "current_conference", false %}
