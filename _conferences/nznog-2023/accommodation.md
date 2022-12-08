@@ -6,6 +6,8 @@ NZNOG 2023 is being held at the Rydges Hotel, Rotorua.
   
 ## Conference Venue - Rydges Hotel
 
+Note that Rotorua previously had a Rydges on Fenton St. The conference venue + primary accomodation is at the current Rydges on Tryon St.
+
 We have secured a delegate rate for the conference attendees.
 
 Special NZNOG room rates have a block reserved, however this will be released on a monthly basis prior to the conference. We suggest booking early if you want to stay at the conference venue itself, as this hotel can be busy in March.
@@ -30,6 +32,8 @@ Email [experience@regalpalms.co.nz](mailto:experience@regalpalms.co.nz) or phone
 ### Arawa Park
 
 Arawa Park Hotel Rotorua is approx a 20 minute / 1.5km walk from Rydges.
+
+Note that this location was *previously* a Rydges, but no longer is.
 
 A discounted rate is available through their website: [www.independentcollection.com.au](https://www.independentcollection.com.au) and following the instructions below:
 
