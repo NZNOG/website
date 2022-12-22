@@ -15,7 +15,7 @@ NZNOG 2023 will be held in Rotorua, New Zealand, at the Rydges Hotel.
 | Friday 24 March    | | | [X](nznog-2023/programme) | |
 {: class="table table-bordered text-center"}
 
-Early bird pricing for the main conference will be available until December 24th 2023 @ $250. After which, the conference price will be $350 and available until sold out.
+Early bird pricing for the main conference will be available until December 24th 2022 @ $250. After which, the conference price will be $350 and available until sold out.
 Tutorial and workshop pricing is available on the [registration](https://nznog-2023.lilregie.com/) page.
 
 Accommodation will be available from Rydges, and other nearby hotels. See the [Accommodation](nznog-2023/accommodation) page for details when they become available.
