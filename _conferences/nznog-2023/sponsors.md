@@ -34,8 +34,13 @@ Without their help NZNOG would just not be viable so please support them if you 
 
 ## Community Sponsors
 
-[![https://www.inveho.nz](/sponsor-logos/inveho.jpg){: width="320"}](https://www.inveho.nz/)
+
+[![https://www.datavault.net.nz/](/sponsor-logos/DataVault.png){: width="320"}](https://www.datavault.net.nz/)
 {: style="text-align: center;"}
 
 [![https://www.inspire.net.nz/](/sponsor-logos/Inspire_Net.jpg){: width="320"}](https://www.inspire.net.nz/)
 {: style="text-align: center;"}
+
+[![https://www.inveho.nz](/sponsor-logos/inveho.jpg){: width="320"}](https://www.inveho.nz/)
+{: style="text-align: center;"}
+
