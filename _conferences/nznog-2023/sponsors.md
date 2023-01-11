@@ -18,7 +18,6 @@ Without their help NZNOG would just not be viable so please support them if you 
 {: style="text-align: center;"}
 
 
-
 ## Silver Sponsors
 
 [![https://www.trustpower.co.nz/](/sponsor-logos/Trust Power.jpg){: width="320"}](https://www.trustpower.co.nz/)
@@ -28,3 +27,15 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://www.vetta.online/](/sponsor-logos/Vetta Online.png){: width="320"}](https://www.vetta.online/)
 {: style="text-align: center;"}
 
+## Networking Drinks Sponsor
+
+[![https://aws.amazon.com/](/sponsor-logos/AWS_logo_PMS.jpg){: width="320"}](https://aws.amazon.com/)
+{: style="text-align: center;"}
+
+## Community Sponsors
+
+[![https://www.inveho.nz](/sponsor-logos/inveho.jpg){: width="320"}](https://www.inveho.nz/)
+{: style="text-align: center;"}
+
+[![https://www.inspire.net.nz/](/sponsor-logos/Inspire_Net.jpg){: width="320"}](https://www.inspire.net.nz/)
+{: style="text-align: center;"}
