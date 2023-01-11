@@ -14,6 +14,9 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://www.gowifi.co.nz/](/sponsor-logos/gowifi+streakwave%20side%20by%20side4.png){: width="320"}](https://www.gowifi.co.nz/)
 {: style="text-align: center;"}
 
+[![https://ix.nz/](/sponsor-logos/NZ%20Internet%20Exchange%20logo.png){: width="320"}](https://ix.nz/)
+{: style="text-align: center;"}
+
 
 
 ## Silver Sponsors
