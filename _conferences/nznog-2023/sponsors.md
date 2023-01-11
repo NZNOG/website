@@ -14,6 +14,8 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://www.gowifi.co.nz/](/sponsor-logos/gowifi+streakwave%20side%20by%20side4.png){: width="320"}](https://www.gowifi.co.nz/)
 {: style="text-align: center;"}
 
+<br />
+
 [![https://ix.nz/](/sponsor-logos/NZ%20Internet%20Exchange%20logo.png){: width="320"}](https://ix.nz/)
 {: style="text-align: center;"}
 
@@ -23,6 +25,7 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://www.trustpower.co.nz/](/sponsor-logos/Trust Power.jpg){: width="320"}](https://www.trustpower.co.nz/)
 {: style="text-align: center;"}
 
+<br />
 
 [![https://www.vetta.online/](/sponsor-logos/Vetta Online.png){: width="320"}](https://www.vetta.online/)
 {: style="text-align: center;"}
@@ -38,8 +41,12 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://www.datavault.net.nz/](/sponsor-logos/DataVault.png){: width="320"}](https://www.datavault.net.nz/)
 {: style="text-align: center;"}
 
+<br />
+
 [![https://www.inspire.net.nz/](/sponsor-logos/Inspire_Net.jpg){: width="320"}](https://www.inspire.net.nz/)
 {: style="text-align: center;"}
+
+<br />
 
 [![https://www.inveho.nz](/sponsor-logos/inveho.jpg){: width="320"}](https://www.inveho.nz/)
 {: style="text-align: center;"}
