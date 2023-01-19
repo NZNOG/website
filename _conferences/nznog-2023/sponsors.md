@@ -30,6 +30,11 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://www.vetta.online/](/sponsor-logos/Vetta Online.png){: width="320"}](https://www.vetta.online/)
 {: style="text-align: center;"}
 
+<br />
+
+[![https://juniper.net/](/sponsor-logos/juniper_blk.png){: width="320"}](https://juniper.net/)
+{: style="text-align: center;"}
+
 ## Networking Drinks Sponsor
 
 [![https://aws.amazon.com/](/sponsor-logos/AWS_logo_PMS.jpg){: width="320"}](https://aws.amazon.com/)
