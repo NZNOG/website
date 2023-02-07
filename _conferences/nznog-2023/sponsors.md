@@ -40,8 +40,12 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://aws.amazon.com/](/sponsor-logos/AWS_logo_PMS.jpg){: width="320"}](https://aws.amazon.com/)
 {: style="text-align: center;"}
 
-## Community Sponsors
+## Lanyard Sponsor
 
+[![https://www.vodafone.co.nz/](/sponsor-logos/One_NZ_Secondary_Logo_V_RGB.png){: width="220"}](https://www.vodafone.co.nz/)
+{: style="text-align: center;"}
+
+## Community Sponsors
 
 [![https://www.datavault.net.nz/](/sponsor-logos/DataVault.png){: width="320"}](https://www.datavault.net.nz/)
 {: style="text-align: center;"}
@@ -56,3 +60,7 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://www.inveho.nz](/sponsor-logos/inveho.jpg){: width="320"}](https://www.inveho.nz/)
 {: style="text-align: center;"}
 
+<br />
+
+[![https://www.smartoptics.com/](/sponsor-logos/smartoptics_IDS_logo.jpg){: width="440"}](https://www.smartoptics.com/)
+{: style="text-align: center;"}
