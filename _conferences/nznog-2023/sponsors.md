@@ -35,9 +35,24 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://juniper.net/](/sponsor-logos/juniper_blk.png){: width="320"}](https://juniper.net/)
 {: style="text-align: center;"}
 
+<br />
+
+[![http://www.2talk.co.nz/index.html](/sponsor-logos/2talk_logo_17.png){: width="320"}](http://www.2talk.co.nz/index.html)
+{: style="text-align: center;"}
+
 ## Networking Drinks Sponsor
 
 [![https://aws.amazon.com/](/sponsor-logos/AWS_logo_PMS.jpg){: width="320"}](https://aws.amazon.com/)
+{: style="text-align: center;"}
+
+## Wednesday Night Drinks Sponsor
+
+[![https://devoli.com/](/sponsor-logos/Devoli-Logo no background.png){: width="320"}](https://devoli.com/)
+{: style="text-align: center;"}
+
+## Coffee Sponsor
+
+[![https://www.searchlight.nz/](/sponsor-logos/SearchLight Logo.png){: width="320"}](https://www.searchlight.nz/)
 {: style="text-align: center;"}
 
 ## Lanyard Sponsor
