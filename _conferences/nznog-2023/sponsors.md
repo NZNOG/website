@@ -45,20 +45,29 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://aws.amazon.com/](/sponsor-logos/AWS_logo_PMS.jpg){: width="320"}](https://aws.amazon.com/)
 {: style="text-align: center;"}
 
+<br />
+
 ## Wednesday Night Drinks Sponsor
 
 [![https://devoli.com/](/sponsor-logos/Devoli-Logo no background.png){: width="320"}](https://devoli.com/)
 {: style="text-align: center;"}
+
+<br />
 
 ## Coffee Sponsor
 
 [![https://www.searchlight.nz/](/sponsor-logos/SearchLight Logo.png){: width="320"}](https://www.searchlight.nz/)
 {: style="text-align: center;"}
 
+<br />
+
+
 ## Lanyard Sponsor
 
 [![https://www.vodafone.co.nz/](/sponsor-logos/One_NZ_Secondary_Logo_V_RGB.png){: width="220"}](https://www.vodafone.co.nz/)
 {: style="text-align: center;"}
+
+<br />
 
 ## Community Sponsors
 
@@ -79,3 +88,5 @@ Without their help NZNOG would just not be viable so please support them if you 
 
 [![https://www.smartoptics.com/](/sponsor-logos/smartoptics_IDS_logo.jpg){: width="440"}](https://www.smartoptics.com/)
 {: style="text-align: center;"}
+
+<br />
