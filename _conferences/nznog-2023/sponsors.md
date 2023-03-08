@@ -40,6 +40,13 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![http://www.2talk.co.nz/index.html](/sponsor-logos/2talk_logo_17.png){: width="320"}](http://www.2talk.co.nz/index.html)
 {: style="text-align: center;"}
 
+## Dinner Sponsor
+
+[![https://www.arista.com/](/sponsor-logos/Arista-Logo_Blue.png){: width="320"}](https://www.arista.com/)
+{: style="text-align: center;"}
+
+<br />
+
 ## Networking Drinks Sponsor
 
 [![https://aws.amazon.com/](/sponsor-logos/AWS_logo_PMS.jpg){: width="320"}](https://aws.amazon.com/)
