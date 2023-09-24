@@ -1,6 +1,6 @@
 ---
 title: NZNOG 2023
-current_conference: true
+current_conference: false
 order: 1
 ---
 
