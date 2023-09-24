@@ -8,7 +8,9 @@ NZNOG has no king, president, or formal membership. It consists of the subscribe
 ## Annual Conference
 Our annual conference provides both an opportunity to exchange technical information, and a high-value opportunity for NZ’s networking staff to ‘network’ amongst themselves. This is New Zealand’s only technical networking conference.
 
-[NZNOG Conference 2023](conferences/nznog-2023) will be held in Rotorua, at the Rydges Hotel, on March 23-24 2023.
+[NZNOG Conference 2024](conferences/nznog-2024) will be held in Nelson, at the Rutherford Hotel, on April 11-12 2023.
+
+The [NZNOG Conference 2023](conferences/nznog-2023) was held in Rotorua.
 
 The [NZNOG Conference 2022](conferences/nznog-2022) was held in Wellington.
 
