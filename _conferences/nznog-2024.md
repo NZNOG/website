@@ -19,6 +19,16 @@ Conference fees and registration will be available shortly.
 
 Accommodation will be available from Rutherford, and other nearby hotels. We will have a special rate for conference attendees.
 
+## Rutherford Hotel
+
+Delegates must call or email the hotel directly and quote 780451 (block group code) when making their reservation. Bookings via the website and online bookings will not be offered this negotiated rate.
+
+To make a booking contact Joel Sangster on 03 546 3000
+
+* Premium room $215
+* Breakfast $34.50
+
+
 Below are some useful links:
 - [Anti-Harassment Policy](/conference-anti-harassment-policy)
 
