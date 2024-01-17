@@ -18,7 +18,9 @@ NZNOG 2024 will be held in Nelson, New Zealand, at the Rutherford Hotel. It is p
 Early bird pricing for the main conference will be available during January and February for $300. After which, the conference price will be $400 and available until sold out.
 Tutorial and workshop pricing will be available on the registration page soon.
 
-Accommodation is available from the [Rutherford Hotel](nznog-2023/accommodation)
+Partners are welcome to the Thursday night dinner. Add them as a separate person on our registration page, and then pick a Partner Dinner ticket for $50. Please contact us if want your partner to go karting.
+
+Accommodation is available from the [Rutherford Hotel](nznog-2024/accommodation)
 
 Below are some useful links:
 - [Anti-Harassment Policy](/conference-anti-harassment-policy)
