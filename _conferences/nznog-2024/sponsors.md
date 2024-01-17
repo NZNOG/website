@@ -17,15 +17,24 @@ Without their help NZNOG would just not be viable so please support them if you 
 
 ## Silver Sponsors
 
-<br />
-
-[![https://www.vetta.online/](/sponsor-logos/Vetta Online.png){: width="320"}](https://www.vetta.online/)
-{: style="text-align: center;"}
 
 <br />
 
 [![https://juniper.net/](/sponsor-logos/juniper_blk.png){: width="320"}](https://juniper.net/)
 {: style="text-align: center;"}
+
+<br />
+
+[![https://www.mercury.co.nz/](/sponsor-logos/Mercury_Alt_Logo_lockup_yellow_NEW_Feb23.png){: width="320"}](https://www.mercury.co.nz/)
+{: style="text-align: center;"}
+
+
+<br />
+
+[![https://www.vetta.online/](/sponsor-logos/Vetta Online.png){: width="320"}](https://www.vetta.online/)
+{: style="text-align: center;"}
+
+
 
 
 ## Dinner Sponsor
