@@ -32,4 +32,4 @@ Details to come shortly.
 
 **Cost:** $50 
 
-Details to come shortly.
+This is your opportunity to learn about LoRaWAN and how it can help you improve efficiencies across the board. Come and see what all the hype is about! In this introduction we will cover the absolute fundamentals of using LoRaWAN.  Includes practical hands on training.  Cost covers a complete LoRaWAN starter kit.
