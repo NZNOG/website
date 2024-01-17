@@ -30,6 +30,6 @@ Details to come shortly.
 
 **Date:** Wednesday 10 April 2024 - Full Day
 
-**Cost:** $50 
+**Cost:** $450 
 
 This is your opportunity to learn about LoRaWAN and how it can help you improve efficiencies across the board. Come and see what all the hype is about! In this introduction we will cover the absolute fundamentals of using LoRaWAN.  Includes practical hands on training.  Cost covers a complete LoRaWAN starter kit.
