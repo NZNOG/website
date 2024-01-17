@@ -11,7 +11,7 @@ NZNOG 2024 will be held in Nelson, New Zealand, at the Rutherford Hotel. It is p
 | Monday 8 April    | [X](nznog-2024/workshops-and-tutorials) | | | |
 | Tuesday 9 April   | [X](nznog-2024/workshops-and-tutorials) | | | |
 | Wednesday 10 April | [X](nznog-2024/workshops-and-tutorials) | [X](nznog-2024/workshops-and-tutorials) | | Welcome Drinks |
-| Thursday 11 April  | | | X | Dinner and Social |
+| Thursday 11 April  | | | X | [Dinner and Social](nznog-2024/dinner-and-social) |
 | Friday 12 April    | | | X | |
 {: class="table table-bordered text-center"}
 
