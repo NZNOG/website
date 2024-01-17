@@ -4,7 +4,7 @@ current_conference: true
 order: 1
 ---
 
-NZNOG 2024 will be held in Nelson, New Zealand, at the Rutherford Hotel. It is proudly brought to you be .nz .
+NZNOG 2024 will be held in Nelson, New Zealand, at the Rutherford Hotel. It is proudly brought to you by [.nz](https://internetnz.nz/nz-domains/) .
 
 | Date | Tutorial | Workshops | Conference | Evening Event |
 | --- | --- | --- | --- | --- |
