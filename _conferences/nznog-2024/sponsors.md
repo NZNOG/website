@@ -51,6 +51,13 @@ Without their help NZNOG would just not be viable so please support them if you 
 
 <br />
 
+## Lanyard Sponsor
+
+[![https://www.flexoptix.net/en](/sponsor-logos/flexoptix_logo.png){: width="320"}](https://www.flexoptix.net/en)
+{: style="text-align: center;"}
+
+<br />
+
 
 ## Coffee Sponsor
 
@@ -59,8 +66,6 @@ Without their help NZNOG would just not be viable so please support them if you 
 
 <br />
 
-
-## Lanyard Sponsor
 
 
 
