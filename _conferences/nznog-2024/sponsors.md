@@ -7,13 +7,19 @@ Conference ticket sales pay for a quarter of each year's costs. The other expens
 Without their help NZNOG would just not be viable so please support them if you can.
 
 
+## Naming and Gold Sponsor
+
+<br />
+
+[![https://internetnz.nz/](/sponsor-logos/dotnz.jpg){: width="320"}](https://internetnz.nz/)
+{: style="text-align: center;"}
+
 ## Gold Sponsors
 
 <br />
 
 [![https://ix.nz/](/sponsor-logos/NZ%20Internet%20Exchange%20logo.png){: width="320"}](https://ix.nz/)
 {: style="text-align: center;"}
-
 
 ## Silver Sponsors
 
@@ -35,14 +41,19 @@ Without their help NZNOG would just not be viable so please support them if you 
 {: style="text-align: center;"}
 
 
-
-
 ## Dinner Sponsor
 
 [![https://www.arista.com/](/sponsor-logos/Arista-Logo_Blue.png){: width="320"}](https://www.arista.com/)
 {: style="text-align: center;"}
 
 <br />
+
+## Lunch Sponsors
+
+<br />
+
+[![https://cdc.com/nz/](/sponsor-logos/cdc.png){: width="320"}](https://cdc.com/nz/)
+{: style="text-align: center;"}
 
 ## Energy Drinks
 
@@ -67,8 +78,9 @@ Without their help NZNOG would just not be viable so please support them if you 
 <br />
 
 
+## Community Sponsors
 
+[![https://inveho.nz/](/sponsor-logos/inveho.jpg){: width="320"}](https://inveho.nz/)
+{: style="text-align: center;"}
 
 <br />
-
-## Community Sponsors
