@@ -21,6 +21,23 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://ix.nz/](/sponsor-logos/NZ%20Internet%20Exchange%20logo.png){: width="320"}](https://ix.nz/)
 {: style="text-align: center;"}
 
+
+
+## Dinner Sponsor
+
+[![https://www.arista.com/](/sponsor-logos/Arista-Logo_Blue.png){: width="320"}](https://www.arista.com/)
+{: style="text-align: center;"}
+
+<br />
+
+## Wednesday Night Drinks Sponsor
+
+[![https://devoli.com/](/sponsor-logos/Devoli-Logo no background.png){: width="320"}](https://devoli.com/)
+{: style="text-align: center;"}
+
+<br />
+
+
 ## Silver Sponsors
 
 
@@ -41,12 +58,6 @@ Without their help NZNOG would just not be viable so please support them if you 
 {: style="text-align: center;"}
 
 
-## Dinner Sponsor
-
-[![https://www.arista.com/](/sponsor-logos/Arista-Logo_Blue.png){: width="320"}](https://www.arista.com/)
-{: style="text-align: center;"}
-
-<br />
 
 ## Lunch Sponsors
 
