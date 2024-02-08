@@ -11,7 +11,7 @@ Without their help NZNOG would just not be viable so please support them if you 
 
 <br />
 
-[![https://internetnz.nz/](/sponsor-logos/dotnz.jpg){: width="320"}](https://internetnz.nz/)
+[![https://internetnz.nz/nz-domains/](/sponsor-logos/dotnz.jpg){: width="320"}](https://internetnz.nz/nz-domains/)
 {: style="text-align: center;"}
 
 ## Gold Sponsors
