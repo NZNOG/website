@@ -6,6 +6,8 @@ NZNOG 2024 is being held at the Rutherford Hotel, Nelson.
 
 ## Conference Venue - Rutherford Hotel
 
+<span style="color:red">*Rutherford hotel is now full through the main conference dates*</span>.
+
 Delegates must call or email the hotel directly and quote 780451 (block group code) when making their reservation. Bookings via the website and online bookings will not be offered the conference negotiated rate.
 
 To make a booking contact Joel Sangster on 03 546 3000
