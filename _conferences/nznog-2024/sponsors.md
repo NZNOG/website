@@ -37,9 +37,14 @@ Without their help NZNOG would just not be viable so please support them if you 
 
 <br />
 
+## Lanyard Sponsor
+
+[![https://www.flexoptix.net/en](/sponsor-logos/flexoptix_logo.png){: width="320"}](https://www.flexoptix.net/en)
+{: style="text-align: center;"}
+
+<br />
 
 ## Silver Sponsors
-
 
 <br />
 
@@ -57,8 +62,6 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://www.vetta.online/](/sponsor-logos/Vetta Online.png){: width="320"}](https://www.vetta.online/)
 {: style="text-align: center;"}
 
-
-
 ## Lunch Sponsors
 
 <br />
@@ -69,13 +72,6 @@ Without their help NZNOG would just not be viable so please support them if you 
 ## Energy Drinks
 
 [![https://aws.amazon.com/](/sponsor-logos/AWS_logo_PMS.jpg){: width="320"}](https://aws.amazon.com/)
-{: style="text-align: center;"}
-
-<br />
-
-## Lanyard Sponsor
-
-[![https://www.flexoptix.net/en](/sponsor-logos/flexoptix_logo.png){: width="320"}](https://www.flexoptix.net/en)
 {: style="text-align: center;"}
 
 <br />
@@ -94,4 +90,6 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://inveho.nz/](/sponsor-logos/inveho.jpg){: width="320"}](https://inveho.nz/)
 {: style="text-align: center;"}
 
+[![https://apnic.net/](/sponsor-logos/apnic.png){: width="320"}](https://apnic.net/)
+{: style="text-align: center;"}
 <br />
