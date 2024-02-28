@@ -90,6 +90,15 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://inveho.nz/](/sponsor-logos/inveho.jpg){: width="320"}](https://inveho.nz/)
 {: style="text-align: center;"}
 
+<br />
+
+
 [![https://apnic.net/](/sponsor-logos/apnic.png){: width="320"}](https://apnic.net/)
 {: style="text-align: center;"}
+
+<br />
+
+[![https://www.inspire.net.nz/](/sponsor-logos/Inspire_Net.jpg){: width="320"}](https://www.inspire.net.nz/)
+{: style="text-align: center;"}
+
 <br />
