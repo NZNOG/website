@@ -102,3 +102,8 @@ Without their help NZNOG would just not be viable so please support them if you 
 {: style="text-align: center;"}
 
 <br />
+
+[![https://www.datavault.net.nz/](/sponsor-logos/DataVault.png){: width="320"}](https://www.datavault.net.nz/)
+{: style="text-align: center;"}
+
+<br />
