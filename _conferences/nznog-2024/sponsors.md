@@ -107,3 +107,6 @@ Without their help NZNOG would just not be viable so please support them if you 
 {: style="text-align: center;"}
 
 <br />
+
+[![https://www.smartoptics.com/](/sponsor-logos/smartoptics_IDS_logo.jpg){: width="440"}](https://www.smartoptics.com/)
+{: style="text-align: center;"}
