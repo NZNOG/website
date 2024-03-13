@@ -22,7 +22,18 @@ This workshop will look at at current tools/techniques, how RPKI is just a piece
 
 **Cost:** $50 
 
-Details to come shortly.
+The workshop will help the participants have a better understanding of the IPv6 protocol and learn how to deploy IPv6 in their network. 
+
+Pre reading required - IPv6 Protocol architecture and standards (https://academy.apnic.net/en/events?id=a0BOc000000FTEbMAO)
+
+Topics
+-IPv6 addressing and address planning
+-IPv6 Enhancements to Routing Protocols
+
+And one of (chosen by participants):
+-IPv6 transition technologies
+-IPv6 deployment planning
+
 
 
 ### LoRaWAN Training
