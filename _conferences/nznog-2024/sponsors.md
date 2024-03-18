@@ -14,6 +14,9 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://internetnz.nz/nz-domains/](/sponsor-logos/dotnz.jpg){: width="320"}](https://internetnz.nz/nz-domains/)
 {: style="text-align: center;"}
 
+<br />
+
+
 ## Gold Sponsors
 
 <br />
@@ -26,6 +29,7 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://ix.nz/](/sponsor-logos/Nokia%20logo%20RGB_Black.png){: width="320"}](https://www.nokia.com/)
 {: style="text-align: center;"}
 
+<br />
 
 ## Dinner Sponsor
 
