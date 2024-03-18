@@ -21,6 +21,10 @@ Without their help NZNOG would just not be viable so please support them if you 
 [![https://ix.nz/](/sponsor-logos/NZ%20Internet%20Exchange%20logo.png){: width="320"}](https://ix.nz/)
 {: style="text-align: center;"}
 
+<br />
+
+[![https://ix.nz/](/sponsor-logos/Nokia%20logo%20RGB_Black.png){: width="320"}](https://www.nokia.com/)
+{: style="text-align: center;"}
 
 
 ## Dinner Sponsor
