@@ -57,3 +57,6 @@ Internet governance is at an inflection point. Between now and the close of 2025
 The key risk is that the outcomes of these processes will weaken the multistakeholder model of internet governance in favour of an increased multilateral (government) role. This could reduce the role of non government stakeholders - including the technical community - in internet governance and critical decision making processes on how the Internet develops. 
 There has been a lack of coordination and activation by the Internet technical community to respond to these debates and issues, but InternetNZ is working with others in the global Internet technical community to stand up an informal coalition that will support members of the community to engage and have impact together in these processes. 
 This talk will cover what is happening in the global internet governance system, and explain how InternetNZ and others in the Internet technical community are engaging to defend and improve the multistakeholder model of internet governance (and secure the technical community's role in that model) towards ensuring an open free and interoperable Internet. 
+
+### Dave Phelan  DDoS in Oceania and the Pacific
+This Presentation will try to unravel what is happening with DDoS in the region, look at the contributing factors, and see if we can do more to not be part of the problem.
