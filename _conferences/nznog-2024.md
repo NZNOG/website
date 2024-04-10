@@ -10,13 +10,11 @@ NZNOG 2024 will be held in Nelson, New Zealand, at the Rutherford Hotel. It is p
 | --- | --- | --- | --- | --- |
 | Monday 8 April    | [X](nznog-2024/workshops-and-tutorials) | | | |
 | Tuesday 9 April   | [X](nznog-2024/workshops-and-tutorials) | | | |
-| Wednesday 10 April | [X](nznog-2024/workshops-and-tutorials) | [X](nznog-2024/workshops-and-tutorials) | | Welcome Drinks |
+| Wednesday 10 April | [X](nznog-2024/workshops-and-tutorials) | [X](nznog-2024/workshops-and-tutorials) | | Welcome Drinks (5.30pm Riwaka Foyer) |
 | Thursday 11 April  | | | X | [Dinner and Social](nznog-2024/dinner-and-social) |
 | Friday 12 April    | | | X | |
 {: class="table table-bordered text-center"}
 
-Early bird pricing for the main conference will be available during January and February for $300. After which, the conference price will be $400 and available until sold out.
-Tutorial and workshop pricing are available on the registration page.
 
 [Please register here](https://nznog-2024.lilregie.com/booking/attendees/new)
 
