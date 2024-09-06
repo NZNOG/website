@@ -8,7 +8,7 @@ NZNOG has no king, president, or formal membership. It consists of the subscribe
 ## Annual Conference
 Our annual conference provides both an opportunity to exchange technical information, and a high-value opportunity for NZ’s networking staff to ‘network’ amongst themselves. This is New Zealand’s only technical networking conference.
 
-The next NZNOG will be held in Napier on the week of 7 - 11 April 2025.
+[NZNOG Conference 2025](conferences/nznog-2025) will be held in Napier on the week of 7 - 11 April 2025.
 
 [NZNOG Conference 2024](conferences/nznog-2024) was held in Nelson.
 
