@@ -938,10 +938,10 @@
   peeringdb:
     - 3798
   hours: 24x7
-- name: Vodafone
-  link: http://www.vodafone.co.nz/
+- name: One New Zealand
+  link: https://one.nz/
   domains:
-    - 'vodafone.co.nz'
+    - 'one.nz'
   asns:
     - 9500
     - 7657
@@ -950,7 +950,7 @@
     - '0800 777 770 (NZ)'
     - '+64 9 355 2313 (Outside NZ)'
   emails:
-    - 'noc.nz@vodafone.com'
+    - 'noc@one.nz'
   hours: 24x7
 - name: Vorco
   link: http://www.vorco.net
