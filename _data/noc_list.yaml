@@ -107,6 +107,19 @@
   emails:
     - 'noc@aut.ac.nz'
   hours: 24x7
+- name: Broadband and Internet NZ (BAINZ)
+  link: http://www.bainz.co.nz/
+  domains:
+    - 'bainz.co.nz'
+  asns:
+    - 152703
+  phone_numbers:
+    - '+64 4 8300 200'
+    - '+64 27 809 8700 '
+    - '+64 21 025 02772'
+  emails:
+    - 'support@bainz.co.nz'
+  hours: 8x5
 - name: Baycity Communications
   link: http://www.baycity.co.nz/
   domains:
