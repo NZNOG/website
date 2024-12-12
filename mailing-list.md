@@ -7,9 +7,11 @@ The New Zealand Network Operators’ Group (NZNOG) has no king, president or for
 ## Mailing List Mechanics
 
 The NZNOG Mailing List has around 900 addresses subscribed. You may only post to the list from a subscribed address. A number of people subscribe addresses which do not receive email purely to allow posting from them.
-You may choose to receive postings as they come in, or just to receive daily “digests”. See the list options at [https://list.waikato.ac.nz/postorius/lists/nznog.list.waikato.ac.nz/](https://list.waikato.ac.nz/postorius/lists/nznog.list.waikato.ac.nz/) to change the mode in which you receive postings.
+You may choose to receive postings as they come in, or just to receive daily “digests”. See the list options at [https://lists.nznog.org/mailman3/lists/nznog.lists.nznog.org/](https://lists.nznog.org/mailman3/lists/nznog.lists.nznog.org/) to change the mode in which you receive postings.
 
-The NZNOG mailing list is provided through a server at The University of Waikato, and is administered by three members of the community. None of these individuals, nor the organisations they work for, is responsible for its content.
+The NZNOG mailing list is provided through a server run by [mailmanlists.net](https://www.mailmanlists.net), and is administered by members of the community. None of these individuals, nor the organisations they work for, is responsible for its content.
+
+For 26 years, until Dec 2024, the list was hosted by Waikato University at list.waikato.ac.nz. We thank them for generously hosting us for such a long time!
 
 ## NZNOG Mailing List Acceptable Use Policy
 
@@ -29,17 +31,17 @@ In order to continue to provide a useful forum for discussion of relevant techni
 
 ## Mailing List Archives
 
-A full archive is available at [https://list.waikato.ac.nz/hyperkitty/list/nznog@list.waikato.ac.nz/](https://list.waikato.ac.nz/hyperkitty/list/nznog@list.waikato.ac.nz/). Any message sent to the list will be archived and made available on the web automatically. Changes are not made to the archive on request, though the administrators remain happy to assist the Office of the Privacy Commissioner should any complaint be laid with that office.
-One way to search the archive is to use google and prefix your search with site:list.waikato.ac.nz
+A full archive is available at [https://lists.nznog.org/archives/list/nznog@lists.nznog.org/](https://lists.nznog.org/archives/list/nznog@lists.nznog.org/). Any message sent to the list will be archived and made available on the web automatically. Changes are not made to the archive on request, though the administrators remain happy to assist the Office of the Privacy Commissioner should any complaint be laid with that office.
+The archive is searchable, but you can also use Google and prefix your search with site:lists.nznog.org.
 
 ### Subscribing to the List
 
-You can subscribe to the list at [https://list.waikato.ac.nz/postorius/lists/nznog.list.waikato.ac.nz/](https://list.waikato.ac.nz/postorius/lists/nznog.list.waikato.ac.nz/)
+You can subscribe to the list at [https://lists.nznog.org/mailman3/lists/nznog.lists.nznog.org/](https://lists.nznog.org/mailman3/lists/nznog.lists.nznog.org/)
 
 ### Using the list wisely
 
 A common reason for posting to the list is when something isn’t working as you believe it should. When this happens the first thing you should do is contact the other party directly – get their details from their website or from the NOC list. If you find out something of general technical interest please share it with the list through an intelligent and fact filled post.
-Secondly, search the archives at [https://list.waikato.ac.nz/hyperkitty/list/nznog@list.waikato.ac.nz/](https://list.waikato.ac.nz/hyperkitty/list/nznog@list.waikato.ac.nz/) to see if your question has been answered before. One way to search the archive is to use google and prefix your search with site:list.waikato.ac.nz .
+Secondly, search the archives at [https://lists.nznog.org/archives/list/nznog@lists.nznog.org/](https://lists.nznog.org/archives/list/nznog@lists.nznog.org/) to see if your question has been answered before. One way to search the archive is to use Google and prefix your search with site:lists.nznog.org.
 
 If this gets you nowhere you should post to the list with sufficient detail so that others on the list to see if the problem you are having might also impact on them (so they will tune into the thread as it progresses), or it might be a more general problem than you think and help may come from somewhere other than where you expected.
 
