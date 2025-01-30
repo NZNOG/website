@@ -561,6 +561,17 @@
   emails:
     - 'noc@omninet.co.nz'
   hours: 24x7
+- name: Orbit Broadband Limited
+  link: http://orbit.net.nz/
+  domains:
+    - 'orbit.net.nz'
+  asns:
+    - 153350
+  phone_numbers:
+    - '0800 467 248'
+  emails:
+    - 'noc@orbit.net.nz'
+  hours: 24x7
 - name: Plan B
   aliases:
     - Solarix
