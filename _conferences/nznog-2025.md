@@ -1,25 +1,25 @@
 ---
-title: NZNOG 2025
+title: NZNOG 2025 brought to you by .nz
 current_conference: true
 order: 1
 ---
 
 NZNOG 2025 will be held in Napier, New Zealand, at the Napier War Memorial Centre.
 
-| Date | Tutorial | Workshops | Conference | Evening Event |
-| --- | --- | --- | --- | --- |
-| Monday 7 April    | X | | | |
-| Tuesday 8 April   | X | | | |
-| Wednesday 9 April | X | X | | Welcome Drinks |
-| Thursday 10 April  | | | X | Dinner and Social |
-| Friday 11 April    | | | X | |
+| Date | Workshops | Conference | Evening Event |
+| --- | --- | --- | --- |
+| Wednesday 9 April | [X](nznog-2025/workshops) | | [Welcome Drinks](nznog-2025/welcome-drinks) |
+| Thursday 10 April  | | X | [Activities and Dinner](nznog-2025/activities-and-dinner) |
+| Friday 11 April    | | X | [Post Conference Activities](nznog-2025/post-conference-activities)|
 {: class="table table-bordered text-center"}
 
-Conference fees and registration will be available shortly.
+[Registration](https://nznog-2025.lilregie.com/) is open.
 
-Accommodation will be available from nearby hotels. We will have a special rate for conference attendees.
+Accommodation is available from nearby hotels. See the [Accommodation](nznog-2025/accommodation) page for details.
 
 Below are some useful links:
+- [Call For Presentations](nznog-2025/call-for-presentations)
+- [Registration](https://nznog-2025.lilregie.com/)
 - [Anti-Harassment Policy](/conference-anti-harassment-policy)
 
 We are seeking sponsors and will have a sponsorship document available. For details contact [sponsorship@nznog.org](mailto:sponsorship@nznog.org).
