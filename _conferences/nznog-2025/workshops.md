@@ -8,16 +8,21 @@ title: NZNOG 2025 Workshops
 
 **Cost:** Free
 
-This workshop will cover Advanced Routing (Routing ATD). Topics will include:
-- Arista Test Drive - Lab Overview
-- Routing ATD - ISIS Overview
-- Routing ATD - Segment Routing
-- Routing ATD - BGP EVPN
-- Routing ATD - BGP EVPN L3VPNs
-- Routing ATD - BGP EVPN L2VPNs
-- Routing ATD - VPWS with EVPN
-- Routing ATD - TI-LFA
-- Routing ATD - SR TE
+This is an all-day (9am - 4pm) workshop covering Service Provider focussed routing technologies.
+The format consists of technical presentations interspersed with hands-on labs.
+
+Topics include the following:
+- Arista Routing Solutions
+- Hands-on with Arista EOS
+- IS-IS and Segment Routing
+- Fast Reroute and Traffic Engineering
+- L2VPN, L3VPN and VPWS Services with BGP EVPN
+
+Each attendee will be provided with access to a virtual lab environment which is accessible for 14 days starting on the day of the workshop. Please bring a laptop to participate on the day.
+
+If you are interested in reviewing the lab material, the lab guides are available here: [https://labguides.testdrive.arista.com/2024.2/advanced_routing/overview/](https://labguides.testdrive.arista.com/2024.2/advanced_routing/overview/) <br />
+We will be covering the labs under ‘Mesh Topology’
+
 
 ### IAASysters in NZ
 *IAASysters*
