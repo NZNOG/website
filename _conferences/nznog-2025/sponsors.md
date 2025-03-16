@@ -70,7 +70,7 @@ Without their help NZNOG would just not be viable so please support them if you 
 
 <br />
 
-[![https://www.vetta.online/](/sponsor-logos/Vetta Online.png){: width="320"}](https://www.vetta.online/)
+[![https://www.vetta.online/wholesale/](/sponsor-logos/Vetta Online.png){: width="320"}](https://www.vetta.online/wholesale/)
 {: style="text-align: center;"}
 
 <br />
@@ -137,4 +137,9 @@ Without their help NZNOG would just not be viable so please support them if you 
 <br />
 
 [![https://ids-g.com/products-services/smartoptics/](/sponsor-logos/smartoptics_IDS_logo.jpg){: width="440"}](https://ids-g.com/products-services/smartoptics/)
+{: style="text-align: center;"}
+
+<br />
+
+[![https://www.apnic.net/](/sponsor-logos/apnic.png){: width="320"}](https://www.apnic.net/)
 {: style="text-align: center;"}
