@@ -37,6 +37,8 @@ Problems with IP geolocation are nothing new to the operator community; customer
 
 In this talk, I'll elaborate on my experiences with IP geolocation data within the IODA (Internet Outage Detection and Analysis) system, where we try to attribute observed Internet outages to the geographic regions where they occur. I hope to both enlighten the NZNOG audience about how IP geolocation datasets are derived and document some of the many gotchas that I have encountered along the way, which may be useful to anyone else considering using geolocation data in the future.
 
+*Shane is a software developer who specializes in building systems to measure the Internet. He spent many years with the WAND Group at the University of Waikato, and now divides his time between the Internet Intelligence Lab at the Georgia Institute of Technology (contributing to the IODA and GRIP projects) and SearchLight here in New Zealand (looking after OpenLI).*
+
 ### Anna Lezhikova - The Weakest Link in the Modern Cyber Threat Landscape
 **CyberFern**
 
