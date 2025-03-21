@@ -37,7 +37,7 @@ Problems with IP geolocation are nothing new to the operator community; customer
 
 In this talk, I'll elaborate on my experiences with IP geolocation data within the IODA (Internet Outage Detection and Analysis) system, where we try to attribute observed Internet outages to the geographic regions where they occur. I hope to both enlighten the NZNOG audience about how IP geolocation datasets are derived and document some of the many gotchas that I have encountered along the way, which may be useful to anyone else considering using geolocation data in the future.
 
-### Anna Lezhikova - TBD
+### Anna Lezhikova - The Weakest Link in the Modern Cyber Threat Landscape
 **CyberFern**
 
 Cyber threats are scarier than ever—hackers are getting creative, and it feels like we're one click away from disaster. But here's the truth: the biggest threat is often the person sitting right next to you. Whether it's falling for a phishing email, leaving passwords on sticky notes, or just not updating that software—humans are usually the weak link in the cyber chain. In this session, we'll take a closer look at how our habits and behaviors contribute to the rise in cyber breaches, both personally and in business. It's not all doom and gloom, though! The solution lies in cultivating a security-first mindset and fostering a culture where security is everyone's responsibility. After all, securing our digital lives isn't just about tech—it's about us. Let's explore how we can all play a part in defending against the growing wave of cyber threats.
