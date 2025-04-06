@@ -143,3 +143,13 @@ Without their help NZNOG would just not be viable so please support them if you 
 
 [![https://www.apnic.net/](/sponsor-logos/apnic.png){: width="320"}](https://www.apnic.net/)
 {: style="text-align: center;"}
+
+<br />
+
+[![https://www.redhat.com/](/sponsor-logos/redhat.jpeg){: width="320"}](https://www.redhat.com/)
+{: style="text-align: center;"}
+
+<br />
+
+[![https://www.hero.co.nz/](/sponsor-logos/herointernet.png){: width="320"}](https://www.hero.co.nz/)
+{: style="text-align: center;"}
