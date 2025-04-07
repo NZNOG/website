@@ -140,6 +140,22 @@ Simulating Geostationary Earth Orbit (GEO) satellites is relatively straightforw
 
 *Wayne Reiher is a PhD student at the School of Computer Science at the University of Auckland. His research area is in satellite communications, particularly the measurement and simulation of the performance of low earth orbit networks in the Pacific Island context.  He is also on leave from his position as the National Director of ICT for the Government of Kiribati.*
 
+### Brent Marquis - Chorus is going boost fibre plans for over 700,000 Kiwi homes – find out how we will technically deliver the upgrade and how you can get the best performance out of Chorus’ services <span style="font-size: 0.5em">😮‍💨</span>
+***Chorus***
+
+Chorus has announced free speed upgrades to some of its most popular wholesale plans, in anticipation of New Zealand’s ever-growing demand for high-speed internet.
+From June 2025, the fast-growing 50/10Mbps plan will have double the download and upload speeds to 100/20Mbps; while the most popular residential plan, 300/100Mbps, will see a significant boost to 500/100Mbps.
+In this presentation, Brent will talk about the technical details of how Chorus will apply those speed upgrades to the network without impacting your customer’s services. The work will occur during a complex web of systems and in-flight work.
+
+The specific topics covered will be:
+- High-level overview of the systems interactions and how to decouple the network change.
+- How the Chorus network configuration allows us to make modifications like this
+- Information about the process and scripts we use to perform the service migration
+- How you, as RSPs and customers, can ensure you get the best performance out of our services.
+
+*Brent Marquis is the Network Engineering Manager at Chorus, leveraging over 25 years of experience in the telecommunications industry. His extensive background has equipped him with a deep technical understanding of telecommunications-grade networking, equipment, and emerging technologies. Brent excels in leading engineering teams to deliver innovative networking solutions that enhance performance and reliability.*
+
+
 <!-- ### Jodi Anderson - TBC
 **InternetNZ**
 
