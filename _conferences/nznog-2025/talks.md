@@ -161,6 +161,6 @@ The specific topics covered will be:
 DNS itself and all the security measures that support its operation are based on open standards. As it is typically the case with security in general, getting all DNS operators and others in the DNS ecosystem to implement security features at the same level has been challenging. Smaller operators struggle to follow the continuous evolution of security measures, while large operators may choose and implement only the measures that are most helpful to their business goals. Meanwhile, this patchwork of varying security levels leads to vulnerabilities that malicious actors leverage for their attacks. Knowledge-Sharing and Instantiating Norms for DNS and Naming Security (KINDNS) is a framework that aims to identify sets of simple and straightforward measures that DNS operators of any size can implement in order to mitigate those exploits and focus on the most important operational best practices.
 
 ### Jodi Anderson - Internet Governance
-**InternetNZ**
+***InternetNZ***
 
 This presentation is an update and a "going deeper" on the presentation of last year, and will focus on the upcoming "WSIS+20" negotiations in the United Nations and why this is important to Internet governance and the global, interoperable Internet as we know it. It will update listeners on the work of the Technical Community Coalition for Multistakeholdersim which InternetNZ helped establish last year to input the voice of the Internet technical community into negotiations like WSIS+20.
