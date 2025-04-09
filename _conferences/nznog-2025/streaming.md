@@ -2,4 +2,4 @@
 title: NZNOG 2025 Streaming
 ---
 
-NZNOG 2025 will be streamed. Check back on the day for links.
+external_link: https://www.youtube.com/watch?v=Q-sPQ7p5n9c&ab_channel=NZNOG
