@@ -280,14 +280,14 @@
   emails:
     - 'enable.faults@huaweiops.co.nz'
   hours: 24x7
- - name: Evolution Wireless
-  aliases: 
-	- Origin Wireless  
+- name: Evolution Wireless
+  aliases:
+    - Origin Wireless
   link: http://www.ewc.co.nz
   domains:
-	- 'ewc.co.nz'
+    - 'ewc.co.nz'
     - 'ew.net.nz'
-	- 'origin.net.nz'
+    - 'origin.net.nz'
   asns:
     - 132815
   phone_numbers:
