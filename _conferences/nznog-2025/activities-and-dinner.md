@@ -17,7 +17,7 @@ Spider Tech, a secret organisation, developed a virus to control the mind of Nap
 [YouTube video](https://www.youtube.com/watch?v=jVm2QmjaH10)
 
 ### The National Aquarium
-Maximum 200 people, 4.30pm – 6.30pm
+Maximum 200 people, 5.00pm – 6.30pm
 
 Enjoy a drink and grazing platters, take self-guided tours through the aquarium.
 
