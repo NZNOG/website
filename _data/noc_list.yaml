@@ -280,6 +280,22 @@
   emails:
     - 'enable.faults@huaweiops.co.nz'
   hours: 24x7
+- name: Evolution Wireless
+  aliases:
+    - Origin Wireless
+  link: http://www.ewc.co.nz
+  domains:
+    - 'ewc.co.nz'
+    - 'ew.net.nz'
+    - 'origin.net.nz'
+  asns:
+    - 132815
+  phone_numbers:
+    - '+64 6 281 0120'
+    - '0800 4 WIRELESS (0800 494 735)'
+  emails:
+    - 'support@ew.net.nz'
+  hours: office
 - name: FusionDigital Communications
   link: http://www.fdc.net.nz/
   domains:
