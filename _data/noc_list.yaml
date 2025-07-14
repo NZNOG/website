@@ -455,6 +455,21 @@
   emails:
     - 'smc@kordia.co.nz'
   hours: 24x7
+  - name: Megaport
+  link: http://www.megaport.com/
+  peeringdb_ids:
+    - 27330
+  domains:
+    - 'megaport.com'
+    - 'MegaIX Auckland'
+  asns:
+    - 63839
+    - 49915
+  phone_numbers:
+    - '+64 508 050 877'
+  emails:
+    - 'support@megaport.com'
+  hours: 24x7
 - name: Modica Group
   aliases:
     - OneSquared
