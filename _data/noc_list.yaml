@@ -1085,23 +1085,6 @@
   emails:
     - 'noc@world-net.co.nz'
   hours: 24x7
-- name: Vodafone Next Generation Services Ltd
-  aliases:
-    - WXCCommunications
-  link: http://www.wxc.co.nz/
-  domains:
-    - 'wxnz.net'
-    - 'wxc.co.nz'
-    - 'xnet.co.nz'
-  asns:
-    - 17435
-  phone_numbers:
-    - '0800 992 662'
-  emails:
-    - 'noc@wxc.co.nz'
-  people:
-    - 'Leigh Smith'
-  hours: 24x7
 - name: Xtreme Networks Ltd
   link: http://www.xtreme.co.nz/
   domains:
