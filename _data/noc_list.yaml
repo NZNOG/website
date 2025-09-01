@@ -455,7 +455,7 @@
   emails:
     - 'smc@kordia.co.nz'
   hours: 24x7
-  - name: Megaport
+- name: Megaport
   link: http://www.megaport.com/
   peeringdb_ids:
     - 27330
