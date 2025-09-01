@@ -1,10 +1,10 @@
 ---
 title: NZNOG 2025 brought to you by .nz
-current_conference: true
+current_conference: false
 order: 1
 ---
 
-NZNOG 2025 will be held in Napier, New Zealand, at the Napier War Memorial Centre.
+NZNOG 2025 was held in Napier, New Zealand, at the Napier War Memorial Centre.
 
 | Date | Workshops | Conference | Evening Event |
 | --- | --- | --- | --- |
