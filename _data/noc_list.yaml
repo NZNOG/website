@@ -592,6 +592,20 @@
   emails:
     - 'noc@omninet.co.nz'
   hours: 24x7
+- name: ONECOMET
+  link: https://www.onecomet.co.nz
+  domains:
+    - 'onecomet.co.nz'
+    - 'onecomet.nz'
+    - 'onecomet.net'
+    - 'onecomet.uk'
+  phone_numbers:
+    - '+64 4 555 1500'
+    - '+64 9 666 1599'
+    - '+64 6 777 1500'
+  emails:
+    - 'noc@onecomet.co.nz'
+  hours: 12x6
 - name: Orbit Broadband Limited
   link: http://orbit.net.nz/
   domains:
