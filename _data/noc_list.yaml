@@ -1029,6 +1029,8 @@
     - '1stdomains.nz'
     - '1stdomains.co.nz'
     - 'hd.net.nz'
+  asns:
+    - 56030
   phone_numbers:
     - '0800 4 SPEED / 09 444 4444 (General)'
     - '09 666 6662 (NOC)'
