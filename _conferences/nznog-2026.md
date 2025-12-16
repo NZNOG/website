@@ -17,7 +17,7 @@ NZNOG 2026 will be held in Christchurch, New Zealand, at Te Pae Christchurch Con
 
 Registration will open soon.
 
-NZNOG is a proud supporter of IAASystersNZ, which supports women in our industry. [Nominations to attend are open](https://internet.asn.au/nominate-a-syster-nz/).
+NZNOG is a proud supporter of [IAASystersNZ](https://internet.asn.au/iaasysters-nz/), which supports women in our industry.
 
 Accommodation is available from nearby hotels. See the [Accommodation](nznog-2026/accommodation) page for details.
 
