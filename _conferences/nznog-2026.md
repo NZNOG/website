@@ -22,7 +22,7 @@ NZNOG is a proud supporter of [IAASystersNZ](https://internet.asn.au/iaasysters-
 Accommodation is available from nearby hotels. See the [Accommodation](nznog-2026/accommodation) page for details.
 
 Below are some useful links:
-- Call for Presentations - Coming soon
+- [Call for Presentations](/nznog-2026/call-for/presentations)
 - [Anti-Harassment Policy](/conference-anti-harassment-policy)
 
 We are seeking sponsors and will have a sponsorship document available. For details contact [sponsorship@nznog.org](mailto:sponsorship@nznog.org).
