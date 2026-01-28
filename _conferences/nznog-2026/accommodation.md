@@ -4,6 +4,8 @@ title: NZNOG 2026 Accommodation
 
 NZNOG 2026 is being held at Te Pae Christchurch Convention Centre, and there are many options available in the area. Christchurch accommodation fills up fast, so please book early.
 
+Christchurch has a good selection of Airbnb and similar options, in addition to hotels.
+
 ## Special Rates
 
 NZNOG has arranged special rates at the following hotels, when using the links / codes provided.
