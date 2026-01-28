@@ -15,7 +15,7 @@ NZNOG 2026 will be held in Christchurch, New Zealand, at Te Pae Christchurch Con
 | Friday 27 March | | | [X](nznog-2026/programme) | [Post Conference Activities](nznog-2026/post-conference-activities)|
 {: class="table table-bordered text-center"}
 
-Registration will open soon.
+**[Registration](https://nznog-2026.lilregie.com/) is open.**
 
 NZNOG is a proud supporter of [IAASystersNZ](https://internet.asn.au/iaasysters-nz/), which supports women in our industry.
 
@@ -23,6 +23,7 @@ Accommodation is available from nearby hotels. See the [Accommodation](nznog-202
 
 Below are some useful links:
 - [Call for Presentations](/nznog-2026/call-for/presentations)
+- [Registration](https://nznog-2026.lilregie.com/)
 - [Anti-Harassment Policy](/conference-anti-harassment-policy)
 
 We are seeking sponsors and will have a sponsorship document available. For details contact [sponsorship@nznog.org](mailto:sponsorship@nznog.org).
