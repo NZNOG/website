@@ -152,14 +152,16 @@
   emails:
     - 'noc@btg.co.nz'
   hours: 24x7
-- name: CatalystIT
-  link: http://www.catalyst.net.nz/
+- name: Catalyst.Net Ltd
+  link: https://www.catalyst.net.nz/
   domains:
     - 'catalyst.net.nz'
   asns:
     - 24226
   phone_numbers:
-    - '026 255 7433 (pager)'
+    - '022 638 5141'
+  people:
+    - 'Alasdair Muckart'
   emails:
     - 'noc@catalyst.net.nz'
   hours: 24x7
