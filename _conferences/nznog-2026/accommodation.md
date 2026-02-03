@@ -22,9 +22,9 @@ The following special rates are available for stays on 23rd - 27th March 2026. T
   - $350/night
   - Code: NZNOG2026
 - [Fable Chirstchurch](https://www.fablehotelsandresorts.com/hotels/fable-christchurch)
-  - Studio Room $220/night
-  - One Bedroom Apartment $280/night
-  - Code: NZNOG26
+  - Promo code NZNOG26, covering 23 to 29 March 2026.
+  - 10% off BAR (Room Only), with 30-day cancellation policy.
+  - Can be booked on the [Fable website](https://bookings.cpghotels.com/inst/#home?propertyId=503MjEcg1Lriq3zBCrCz7Csx5ARvTj62NDE=&JDRN=Y&checkIn=2026-03-23&checkOut=2026-03-24&promoCode=NZNOG26)
 - [The Mayfair](https://mayfairluxuryhotels.com/)
   - 15% off the fully flexible rate (room only) 48 hour cancellation policy
   - Code / Link: [NZNOG2026](https://app.mews.com/distributor/5eb14675-6c02-4b15-9cc5-ae1c00951ffc?mewsVoucherCode=NZNOG2026)
