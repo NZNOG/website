@@ -594,6 +594,20 @@
   emails:
     - 'noc@omninet.co.nz'
   hours: 24x7
+- name: ONECOMET
+  link: https://www.onecomet.co.nz
+  domains:
+    - 'onecomet.co.nz'
+    - 'onecomet.nz'
+    - 'onecomet.net'
+    - 'onecomet.uk'
+  phone_numbers:
+    - '+64 4 555 1500'
+    - '+64 9 666 1550'
+    - '+64 6 777 1599'
+  emails:
+    - 'noc@onecomet.co.nz'
+  hours: 12x6
 - name: Orbit Broadband Limited
   link: http://orbit.net.nz/
   domains:
@@ -605,6 +619,17 @@
   emails:
     - 'noc@orbit.net.nz'
   hours: 24x7
+- name: Ping Broadband
+  link: https://www.pingbroadband.co.nz
+  domains: 
+    - 'pingbroadband.co.nz'
+    - 'pingbroadband.nz'
+  phone_numbers: 
+    - '0800 PING NZ'
+    - '0800 746 469'
+  emails:
+    - 'noc@pingbroadband.co.nz'
+  hours: 12x6
 - name: Plan B
   aliases:
     - Solarix
