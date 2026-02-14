@@ -50,8 +50,8 @@ We are still seeking and confirming sponsors - please get in touch via email at 
 
 <br />
 
-__Equinix__
-{: style="text-align: center; font-size: 30pt;"}
+[![https://www.equinix.com/](/sponsor-logos/equinix.png){: width="320"}](https://www.equinix.com/)
+{: style="text-align: center;"}
 
 ## Lanyard Sponsor
 
@@ -82,6 +82,11 @@ __Equinix__
 <br />
 
 [![https://www.mercury.co.nz/](/sponsor-logos/Mercury_Alt_Logo_lockup_yellow_NEW_Feb23.png){: width="320"}](https://www.mercury.co.nz/)
+{: style="text-align: center;"}
+
+<br />
+
+[![https://www.redhat.com/en](/sponsor-logos/redhat.png){: width="320"}](https://www.redhat.com/en)
 {: style="text-align: center;"}
 
 <br />
@@ -130,10 +135,25 @@ __Equinix__
 
 <br />
 
+[![https://www.datavault.net.nz/](/sponsor-logos/DataVault.png){: width="320"}](https://www.datavault.net.nz/)
+{: style="text-align: center;"}
+
+<br />
+
+[![https://websms.co.nz/?utm_source=nznog&utm_medium=sponsorship&utm_campaign=nznog_2026/](/sponsor-logos/websms.png){: width="320"}](https://www.websms.co.nz/)
+{: style="text-align: center;"}
+
+<br />
+
 [![https://www.apnic.net/](/sponsor-logos/apnic.png){: width="320"}](https://www.apnic.net/)
 {: style="text-align: center;"}
 
 <br />
 
 [![https://www.enable.net.nz/](/sponsor-logos/Enable.jpg){: width="320"}](https://www.enable.net.nz/)
+{: style="text-align: center;"}
+
+<br />
+
+[![https://www.arista.com/en](/sponsor-logos/Arista-Logo_Blue.png){: width="320"}](https://www.arista.com/en)
 {: style="text-align: center;"}
