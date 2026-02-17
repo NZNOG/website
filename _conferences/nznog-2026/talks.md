@@ -87,8 +87,7 @@ RouteViews was initiated in 1995 at the University of Oregon to allow network op
 This presentation introduces the new team behind RouteViews, and shares the new latest developments in the project, now operated on behalf of the global Internet community by the Network Startup Resource Center (NSRC). Some of the developments are the API, a new BMP processor, How to use the RouteViews system as a network operator and what we are working on for the future. 
 
 *Philip Smith has been working in the Internet industry since the early 1990s after catching the Internet bug in the mid 1980s while at University. He runs his own consulting company, PFS Internet Development.
-
-Philip spends some of his time working for the Network Startup Resource Centre as a Senior Network Engineer and Training Coordinator, assisting with Network Operations Groups coordination, and providing network design assistance and training around the Pacific, South and South East Asia, the Middle East and Africa. *
+Philip spends some of his time working for the Network Startup Resource Centre as a Senior Network Engineer and Training Coordinator, assisting with Network Operations Groups coordination, and providing network design assistance and training around the Pacific, South and South East Asia, the Middle East and Africa.*
 
 
 ### Warren Finch
