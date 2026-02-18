@@ -105,7 +105,7 @@ The Open Fibre Data Standard (OFDS) provides a common, open schema for describin
 
 Updating on where WSIS+20 ended up and how we got there, and looking at what happens next, how it sits in the geopolitical context, and where the key opportunities are for the technical community to defend and promote MS Internet governance going forward
 
-*Jodi Anderson is the Principal Policy Advisor at Internetnz | Ipurangi Aotearoa.*
+*Jodi Anderson is the Internet Governance Lead at InternetNZ Ipurangi Aotearoa.*
 
 
 ### Matthew Hayes
