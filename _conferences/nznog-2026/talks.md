@@ -76,7 +76,10 @@ Past approaches for maximizing the data capacity per fiber pair went for running
 
 **AST Space Mobile**
 
-TBD
+2degrees has partnered with AST SpaceMobile, one of the leading companies in the satellite connectivity race. AST SpaceMobile's array of satellites will provide mobile coverage where territorial networks can't. 
+This talk will outline how the technology works, how 2degrees is integrating the service into its network via a 2degrees built ground station, and more.
+
+*Simon Allard is the Head of Network Architecture and Delivery at 2degrees. Simon has more than 20 years experience working in the Telco space.*
 
 ### Philip Smith
 
