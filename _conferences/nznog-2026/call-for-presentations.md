@@ -2,6 +2,8 @@
 title: NZNOG 2026 Call for Presentations
 ---
 
+# The CFP is now closed.   The Programme is full.
+
 The NZNOG Trustees invite presentation proposals for the 23rd NZNOG conference, to be hosted at the Te Pae Christchurch Convention Centre from 23–27 March 2026.
 
 ## Conference objective:
