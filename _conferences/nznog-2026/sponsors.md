@@ -66,7 +66,7 @@ We are still seeking and confirming sponsors - please get in touch via email at 
 
 <br />
 
-[![https://www.vetta.online/wholesale/](/sponsor-logos/Vetta Group.png){: width="320"}](https://www.vetta.online/wholesale/)
+[![https://vetta.nz/wholesale/](/sponsor-logos/Vetta Group.png){: width="320"}](https://vetta.nz/wholesale/)
 {: style="text-align: center;"}
 
 <br />
