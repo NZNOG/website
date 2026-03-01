@@ -11,7 +11,7 @@ The second half of the presentation will offer practical recommendations for net
 
 *Kams Yeung is a Principal Network Architect at Akamai Technologies, the world’s largest CDN. Kams has responsibilities primarily covering peering, routed interconnections and capacity planning. Kams is a 20-year veteran of the Internet industry and an international network engineering, operations and data center professional. He has served as an infrastructure team member during APRICOT-APAN 2011. Before Akamai, Kams was Product Manager at Equinix, and Senior Manager, IP Engineering at Pacnet.  He is a regular supporter of APRICOT, APNIC, APF, and other industry community events.*
 
-### Murray Pearson, TTF
+### Murray Pearson, TFF
 
 **Title: Tuatahi First Fibre: Network Update**
 
@@ -23,13 +23,13 @@ The presentation will provide a technical update on current progress, architectu
 
 ### Matthew Engar
 
-**Designing a Mikrotik CGNATsolution that scales**
+**Designing a Mikrotik CGNAT Solution that Scales**
 
 After upgrading their CGNAT infrastructure in Leaptel’s main points of presence, Matthew found himself with lots of Mikrotiks and decided to take what he learnt from the commercial solutions to develop a redundant CGNAT solution that scales and does not cost the earth. This presentation takes you though step by step his solution allowing any ISP to grab some Mikrotiks and deploy while meeting their law enforcement requirements at the same time.
 
 *Matthew Engar is a self taught network engineer who runs Leaptel, Australian’s 5th fastest growing ISP, providing internet services to residential and wholesale services Australia wide.*
 
-### Pierre Goiffon, Datagrid
+### Pierre Goiffon
 
 **Datagrid: Unlocking the Potential of New Zealand’s South Island**
 
@@ -56,7 +56,7 @@ We’ll also look at a case study of a New Zealand customer that has deployed OR
 
 *Conrad is a Wellington-based Systems Engineer with Arista Networks.*
 
-### Claudiu Captari, Arista
+### Claudiu Captari
 
 **Comfortable Complexity of Network Overlays**
 
