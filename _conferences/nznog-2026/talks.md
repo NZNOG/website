@@ -2,6 +2,70 @@
 title: NZNOG 2026 Talks
 ---
 
+### Kams Yeung, Akamai
+
+**Optimizing Traffic Flow with Akamai**
+
+This presentation explores the unique aspects of Akamai’s content delivery network (CDN) deployment in New Zealand and provides best practices for optimising traffic flow. We will begin by examining the structure of the Akamai network within the country and its method for mapping traffic. We’ll delve into why traditional Border Gateway Protocol (BGP) traffic engineering techniques—such as AS path prepending, Multi-Exit Discriminator (MED), and using more specific routes—are often ineffective with Akamai’s intelligent routing system.
+The second half of the presentation will offer practical recommendations for network operators. Key best practices include setting up and using dedicated DNS resolvers, maintaining complete and consistent route announcements, and avoiding traffic filtering. We’ll also highlight the importance of avoiding Carrier-Grade Network Address Translation (CGNAT) and recommend the adoption of IPv6 to enhance performance and connectivity.
+
+*Kams Yeung is a Principal Network Architect at Akamai Technologies, the world’s largest CDN. Kams has responsibilities primarily covering peering, routed interconnections and capacity planning. Kams is a 20-year veteran of the Internet industry and an international network engineering, operations and data center professional. He has served as an infrastructure team member during APRICOT-APAN 2011. Before Akamai, Kams was Product Manager at Equinix, and Senior Manager, IP Engineering at Pacnet.  He is a regular supporter of APRICOT, APNIC, APF, and other industry community events.*
+
+### Murray Pearson, TTF
+
+**Title: Tuatahi First Fibre: Network Update**
+
+Tuatahi First Fibre is delivering Project Manawanui, migrating our legacy Huawei GPON access network to a new Adtran-based architecture. Aggregation migration has been completed, with the programme now focused on staged regional access cutovers. Whanganui was migrated last year, with New Plymouth next as the rollout continues. This involves OLT replacement, large-scale service migration, and integration into updated operational systems while maintaining continuity across a live production network.
+In parallel, we are modernising the TCFL aggregation layer to prepare the network for future service and capacity growth, including enabling service handover at Napier, Hastings, or Rotorua. We have also launched a 100G handover product on the Adtran platform, with several 100G NNI migrations already completed.
+The presentation will provide a technical update on current progress, architecture changes, and migration sequencing, along with lessons learned — including the multicast replication issue encountered during Whanganui — as we execute vendor transition and scale to 100G within a regional GPON/XGS-PON network.
+
+*Murray Pearson is Network Operations Engineering Manager at Tuatahi First Fibre. Since joining in 2020 he has worked across network architecture, strategy, and operations, and has provided technical leadership for Project Manawanui — Tuatahi’s Huawei-to-Adtran migration. He previously lectured at the University of Waikato and co-founded Lightwire.*
+
+### Matthew Engar
+
+**Designing a Mikrotik CGNATsolution that scales**
+
+After upgrading their CGNAT infrastructure in Leaptel’s main points of presence, Matthew found himself with lots of Mikrotiks and decided to take what he learnt from the commercial solutions to develop a redundant CGNAT solution that scales and does not cost the earth. This presentation takes you though step by step his solution allowing any ISP to grab some Mikrotiks and deploy while meeting their law enforcement requirements at the same time.
+
+*Matthew Engar is a self taught network engineer who runs Leaptel, Australian’s 5th fastest growing ISP, providing internet services to residential and wholesale services Australia wide.*
+
+### Pierre Goiffon, Datagrid
+
+**Datagrid: Unlocking the Potential of New Zealand’s South Island**
+
+New Zealand’s South Island is rapidly emerging as one of the most compelling locations for next-generation AI data centers. With abundant renewable energy and a naturally cool climate, the region offers a rare combination of sustainability, scalability, and resilience.
+In this presentation, Datagrid will outline its vision and roadmap for a 280MW data centre in Invercargill, alongside the Tasman Ring Network submarine cable project. We will explore how Invercargill and the wider South Island can become a critical hub on the global AI infrastructure map. The session will also examine the vital role of both international and domestic connectivity in achieving this vision, and detail Datagrid’s plans to strengthen connectivity across the South Island and New Zealand as a whole.
+
+*Head of Connectivity, Datagrid   Pierre is a telecommunications executive with more than 20 years of experience in the telecommunications and subsea cable industries, both in France and New Zealand. Following senior roles at Vocus NZ and Hawaiki Submarine Cable, he now leads the connectivity strategy for the Datagrid project, including the Tasman Ring submarine cable and the terrestrial infrastructure required to connect the data centre.*
+
+### Basem Al-Sabri
+
+**Rethinking NetOps with Open-Source LLMs & RAG**
+
+This session presents a practical path forward using open-source Large Language Models (LLMs) combined with Retrieval-Augmented Generation (RAG). By grounding LLM reasoning in an organisation's own knowledge base, configurations, and logs, RAG significantly reduces hallucinations and enables accurate, context-aware responses without sending sensitive operational data to third-party vendors. The architecture leverages fully open-source components across data ingestion, vector retrieval, inference, and orchestration, giving operators full control over data sovereignty and compliance while eliminating vendor lock-in and usage-based fees.
+
+*Basem Al-Sabri is the Founder and Network Automation Lead at Netomate, with 14 years of experience in networking and seven years specialising in network automation. He has delivered large-scale automation programs across service providers, mining, education, and finance, reducing operational overhead and improving deployment safety in complex multi-vendor environments.*
+
+### Conrad Bullock
+
+**Using Open Rack V3 to Enhance your Data Centre Infrastructure**
+
+This session explores how the Open Compute Project, and in particular the Open Rack V3 (ORv3) standard offers a transformative approach for building Data Centres.
+We will cover ORv3's innovative design, which significantly improves efficiency, thermal management, and rack density. These features translate to lower operational costs, enhanced cooling for high-density computing, and simplified maintenance. ORv3's modularity and flexibility directly support demanding workloads like AI and HPC, enabling seamless scalability and future-proofing your critical infrastructure.
+We’ll also look at a case study of a New Zealand customer that has deployed ORv3 and achieved some real benefits. 
+
+*Conrad is a Wellington-based Systems Engineer with Arista Networks.*
+
+### Claudiu Captari, Arista
+
+**Comfortable Complexity of Network Overlays**
+
+Traditionally, network domains like the Carrier Core, Data Center, Campus, and Branch have been managed as isolated "snowflakes," each relying on unique protocols and bespoke skill sets. This fragmentation leads to increased operational complexity, slower service deployment, and higher costs.
+A "network transformation" focused on simplifying the architecture through protocol reduction and consistent operational models is required. eVPN becomes key to deliver consistent L2 and L3 services across any transport including VXLAN, MPLS, or SRv6, across all environments: Core, DC and Campus.
+
+*Claudiu Captari is the Systems Engineering Manager for ANZ at Arista Networks. With over 25 years of industry experience, he specializes in helping customers transition to the next generation, highly scalable and programmable cloud architectures.
+Claudiu's technical background includes expertise in Infrastructure as Code, network automation and DC & Service Provider architectures.*
+
 ### Tim Raphael 
 
 **The Evolution of Network Configuration Management**
