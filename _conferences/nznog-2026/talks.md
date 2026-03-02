@@ -2,7 +2,7 @@
 title: NZNOG 2026 Talks
 ---
 
-### Kams Yeung, Akamai
+### Kams Yeung
 
 **Optimizing Traffic Flow with Akamai**
 
@@ -11,7 +11,7 @@ The second half of the presentation will offer practical recommendations for net
 
 *Kams Yeung is a Principal Network Architect at Akamai Technologies, the world’s largest CDN. Kams has responsibilities primarily covering peering, routed interconnections and capacity planning. Kams is a 20-year veteran of the Internet industry and an international network engineering, operations and data center professional. He has served as an infrastructure team member during APRICOT-APAN 2011. Before Akamai, Kams was Product Manager at Equinix, and Senior Manager, IP Engineering at Pacnet.  He is a regular supporter of APRICOT, APNIC, APF, and other industry community events.*
 
-### Murray Pearson, TFF
+### Murray Pearson
 
 **Title: Tuatahi First Fibre: Network Update**
 
@@ -84,7 +84,6 @@ This is a little reminiscence of life when data rates were measured in kilobits 
 
 *Don Stokes ... has done a few things in a four decade career. But from 1992 to 1997 he was: Victoria University of Wellington's first network manager, the instigator of the VUW Internetworking Group, and founding manager of NetLink, what was then NZ's largest ISP.*
 
-
 ### Joe Shaw
 
 **Automated Network State Checking: Insights from the Field**
@@ -104,7 +103,6 @@ One of the fundamental challenges in packet-switched networking is the crafting 
 
 *Geoff Huston AM is the Chief Scientist at APNIC, where he undertakes research on topics associated with Internet infrastructure, IP technologies and address distribution policies.*
 
-
 ### Dave Phelan
 
 **IPv6 Landscape in NZ : Has it Changed**
@@ -118,13 +116,10 @@ This will be an update from my 2023 deck that will track and highlight any chang
 **Evolving Optical Transport: 400G, Network Design, and Regional Diversity**
 
 Optical transport has evolved rapidly, pushing the limits of physics to deliver ever increasing capacity over optical fibre. Advances in coherent modulation, digital signal processing, and open optical architectures are enabling higher capacity services across national and regional networks.
-
 This session will showcase how Aotearoa New Zealand’s largest open access fibre network is delivering 400 Gbps optical capability nationwide, and outline the future technologies and innovations that will enable even higher capacity.
-
 The presentation will unpack the engineering journey to 400G, including optical line system readiness, spectrum management, and coherent transceiver evolution. It will also highlight regional network developments at Chorus, focusing on diverse fibre ring design and protection strategies that strengthen resiliency and service continuity.
 
 *Abouzar Asadi is a Network Technology Manager for Optical Transport at Chorus, with over 18 years’ experience across vendor and carrier environments. He leads Optical Transport strategy, planning, and asset management, helping shape the high-capacity backbone and regional networks that supports New Zealand’s operator and service provider networks. Before joining Chorus in 2022, he held senior roles at Huawei, including Head of Fixed Network (Access, IP and Optical Transport). Abouzar is recognised for his practical, customer focused approach and his ability to translate complex network needs into scalable, real-world solutions.*
-
 
 ### Thomas Weible
 
@@ -133,8 +128,6 @@ The presentation will unpack the engineering journey to 400G, including optical 
 Past approaches for maximizing the data capacity per fiber pair went for running more and more DWDM channels with grid spacings as small as possible. This meant that grid spacings shrank from 200GHz to 100GHz and then 50GHz with some applications even going for 25GHz. In recent years the bandwidth per channel kept increasing, as complex modulation schemes came into favor over ON-OFF-Keying which has been a staple in fiber optic communication for decades. Those increased per channel bandwidths of 400Gbps, 800Gbps and now pushing into the 1.6Tbps realm demand for larger grids to accommodate the spectrum necessary to operate such “Superchannels”. Especially the fact of coherent detection being “blind” to anything but its own wavelength has enabled interesting topologies that can omit filters altogether. Of course that comes at a cost of reduced flexibility. Learn how you can harvest some of those benefits by moving to 400GHz filters while keeping a lot of your flexibility. Keep your 10Gbps and below legacy signals on the same fiber as your fast stuff and easily reassign your bandwidth without the cost ROADMs.
 
 *Thomas Weible is the creative brain of FLEXOPTIX. A real rebel who dreams up innovations such as the FLEXBOX. He dives deep into the inner life of optics and loves experimenting on real-life problems with our customers. Making quality scalable and researching how optics can predict their lifespan are just two of many topics that he works on.*
-
-
 
 ### Simon Allard
 
@@ -156,10 +149,10 @@ This presentation introduces the new team behind RouteViews, and shares the new 
 *Philip Smith has been working in the Internet industry since the early 1990s after catching the Internet bug in the mid 1980s while at University. He runs his own consulting company, PFS Internet Development.
 Philip spends some of his time working for the Network Startup Resource Centre as a Senior Network Engineer and Training Coordinator, assisting with Network Operations Groups coordination, and providing network design assistance and training around the Pacific, South and South East Asia, the Middle East and Africa.*
 
-
 ### Warren Finch
 
 **Open Fibre Standards**
+
 Extreme weather events such as Cyclone Gabrielle in February 2023 exposed the fragility of New Zealand’s communications infrastructure, particularly where fibre routes followed shared transport corridors or relied on limited physical diversity. While operators worked quickly to restore services, the event highlighted a broader challenge: the lack of a shared, open and structured view of national fibre infrastructure that could support resilience planning, coordination and post-incident analysis.
 
 The Open Fibre Data Standard (OFDS) provides a common, open schema for describing terrestrial fibre infrastructure, including routes, nodes and ownership attributes, in a way that is interoperable and machine-readable. This presentation introduces how OFDS provides an open, consistent data model for describing terrestrial fibre networks in a way that can be shared, analysed, and reused across operators, regulators, researchers, and emergency planners. This presentation introduces OFDS from a New Zealand perspective, focusing on why open, standardised fibre data matters for operators and network engineers.
