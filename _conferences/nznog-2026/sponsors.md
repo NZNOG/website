@@ -91,6 +91,11 @@ We are still seeking and confirming sponsors - please get in touch via email at 
 
 <br />
 
+[![https://www.megaport.com/](/sponsor-logos/Megaport-Logo_RBG-WEB-01.png){: width="320"}](https://www.megaport.com/)
+{: style="text-align: center;"}
+
+<br />
+
 ## Thursday Lunch Sponsor
 
 <br />
