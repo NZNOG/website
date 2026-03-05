@@ -2,6 +2,14 @@
 title: NZNOG 2026 Talks
 ---
 
+### Alan DeKok
+
+**Radius Futures**
+
+RADIUS has changed a lot since it was created in 1993, but not enough.  This talk will discuss real-world problems that impact people using RADIUS, and will show how "next generation" RADIUS standards can reduce these problems.
+
+*Alan DeKok co-founded FreeRADIUS in 1999 with Miquel van Smoorenburg.  Now he is the Project Leader of FreeRadius, the most widely deployed RADIUS server in the world.*
+
 ### Kams Yeung
 
 **Optimizing Traffic Flow with Akamai**
