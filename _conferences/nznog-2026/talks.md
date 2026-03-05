@@ -21,13 +21,13 @@ The presentation will provide a technical update on current progress, architectu
 
 *Murray Pearson is Network Operations Engineering Manager at Tuatahi First Fibre. Since joining in 2020 he has worked across network architecture, strategy, and operations, and has provided technical leadership for Project Manawanui — Tuatahi’s Huawei-to-Adtran migration. He previously lectured at the University of Waikato and co-founded Lightwire.*
 
-### Matthew Engar
+### Matthew Enger
 
 **Designing a Mikrotik CGNAT Solution that Scales**
 
 After upgrading their CGNAT infrastructure in Leaptel’s main points of presence, Matthew found himself with lots of Mikrotiks and decided to take what he learnt from the commercial solutions to develop a redundant CGNAT solution that scales and does not cost the earth. This presentation takes you though step by step his solution allowing any ISP to grab some Mikrotiks and deploy while meeting their law enforcement requirements at the same time.
 
-*Matthew Engar is a self taught network engineer who runs Leaptel, Australian’s 5th fastest growing ISP, providing internet services to residential and wholesale services Australia wide.*
+*Matthew Enger is a self taught network engineer who runs Leaptel, Australian’s 5th fastest growing ISP, providing internet services to residential and wholesale services Australia wide.*
 
 ### Pierre Goiffon
 
