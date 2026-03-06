@@ -29,6 +29,16 @@ The presentation will provide a technical update on current progress, architectu
 
 *Murray Pearson is Network Operations Engineering Manager at Tuatahi First Fibre. Since joining in 2020 he has worked across network architecture, strategy, and operations, and has provided technical leadership for Project Manawanui — Tuatahi’s Huawei-to-Adtran migration. He previously lectured at the University of Waikato and co-founded Lightwire.*
 
+### Richard Lake, Brent Williamson, Mudassar Shahzad
+ 
+**Enable Network Transformation Programme & Migration Journey**
+
+This talk provides a high‑level overview of Enable’s Network Transformation Programme, outlining the strategic drivers behind the transformation and the journey undertaken to modernise the network and software stack. It covers the migration approach, key milestones, and the operational and customer impacts, with a focus on how Enable is evolving its network to support future growth, resilience, and service innovation.
+
+*Richard Lake is the Head of Network Transformation at Enable, responsible for leading the strategic design and delivery of the Network Transformation Programme. He works across business and technology teams to drive large‑scale network modernisation initiatives and ensure the successful transition to next‑generation platforms.*
+*Brent Williamson is the Network Infrastructure Manager at Enable, overseeing Network and IT infrastructure delivery and operations. He plays a key role in managing safe and effective infrastructure delivery and migrations, ensuring infrastructure stability, security and resilency aligning operational readiness with the broader transformation objectives.*
+*Mudassar Shahzad is a Network Technical Lead at Enable, responsible for Leading Network Architecture, Design, Deployment, migration readiness, technical coordination, and operational execution, helping translate the transformation strategy into practical, day‑to‑day network delivery and operation.*
+
 ### Matthew Enger
 
 **Designing a Mikrotik CGNAT Solution that Scales**
