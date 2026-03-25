@@ -1,5 +1,4 @@
 ---
 title: NZNOG 2026 Streaming
+external_link: https://www.youtube.com/watch?v=_qzUslAh9M8
 ---
-
-NZNOG streaming will be available on this page during the main conference days on Thursday and Friday.
