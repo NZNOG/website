@@ -16,13 +16,6 @@ This website is generated from this GitHub repository: <https://github.com/NZNOG
 
 Updates can preferably be sent as GitHub pull requests, or if you are not comfortable doing that, you can open a GitHub issue.
 
-## See Also
-
-* [Global Operations Center List](http://puck.nether.net/netops/nocs.cgi)
-* [New Zealand Network Operators’ Group](http://www.nznog.org/)
-* [New Zealand Internet Exchanges](http://www.nzix.net/)
-* [INOC DBA Public Directory](https://www.pch.net/inoc-dba/console.cgi?op=show_pubdir&list=user)
-
 ## List
 
 | Name<br />*Previous/Other name(s)* | PeeringDB | Domain(s)<br />*ASN(s)* | Phone Number(s)<br />*Clueful People*<br />Direct Email | Hours |
