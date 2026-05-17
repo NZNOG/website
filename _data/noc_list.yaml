@@ -285,7 +285,7 @@
 - name: Evolution Wireless
   aliases:
     - Origin Wireless
-  link: http://www.ewc.co.nz
+  link: https://www.ew.net.nz
   domains:
     - 'ewc.co.nz'
     - 'ew.net.nz'
