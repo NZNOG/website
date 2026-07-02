@@ -667,6 +667,24 @@
   people:
     - 'Dan Faulknor'
     - 'Mike Beattie'
+- name: PureLink
+  aliases:
+    - Wanna Internet (former)
+  link: https://purelink.nz
+  peeringdb_ids:
+    - 20676
+  domains:
+    - 'purelink.nz'
+  asns:
+    - 134359
+  phone_numbers:
+    - '0800 100 714'
+    - '+64 7 282 1417'
+  emails:
+    - 'noc@purelink.nz'
+  hours: Office (After-Hours Emergency 07)
+  people:
+    - 'Logan Bull'
 - name: ReiverNet Ltd
   link: http://www.reivernet.com/
   domains:
