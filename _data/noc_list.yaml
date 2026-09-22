@@ -594,6 +594,20 @@
   emails:
     - 'noc@omninet.co.nz'
   hours: 24x7
+- name: One New Zealand
+  link: https://one.nz/
+  domains:
+    - 'one.nz'
+  asns:
+    - 9500
+    - 7657
+    - 17808
+  phone_numbers:
+    - '0800 777 770 (NZ)'
+    - '+64 9 912 4482 (Outside NZ)'
+  emails:
+    - 'noc@one.nz'
+  hours: 24x7
 - name: Orbit Broadband Limited
   link: http://orbit.net.nz/
   domains:
@@ -994,20 +1008,6 @@
     - 18352
   peeringdb:
     - 3798
-  hours: 24x7
-- name: One New Zealand
-  link: https://one.nz/
-  domains:
-    - 'one.nz'
-  asns:
-    - 9500
-    - 7657
-    - 17808
-  phone_numbers:
-    - '0800 777 770 (NZ)'
-    - '+64 9 355 2313 (Outside NZ)'
-  emails:
-    - 'noc@one.nz'
   hours: 24x7
 - name: Vorco
   link: http://www.vorco.net
