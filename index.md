@@ -8,21 +8,14 @@ NZNOG has no king, president, or formal membership. It consists of the subscribe
 ## Annual Conference
 Our annual conference provides both an opportunity to exchange technical information, and a high-value opportunity for NZ’s networking staff to ‘network’ amongst themselves. This is New Zealand’s only technical networking conference.
 
-[NZNOG Conference 2026](conferences/nznog-2026) will be held in Christchurch on the week of 23-27 March 2026.
+
+[NZNOG Conference 2027](conferences/nznog-2027) will be held in Rotorua on 4-9 April, 2027.
+
+[NZNOG Conference 2026](conferences/nznog-2026) was held in Christchurch.
 
 [NZNOG Conference 2025](conferences/nznog-2025) was held in Napier.
 
 [NZNOG Conference 2024](conferences/nznog-2024) was held in Nelson.
-
-The [NZNOG Conference 2023](conferences/nznog-2023) was held in Rotorua.
-
-The [NZNOG Conference 2022](conferences/nznog-2022) was held in Wellington.
-
-We held no NZNOG in 2021 due to Covid-19.
-
-The [NZNOG Conference 2020](conferences/nznog-2020) was held in Christchurch.
-
-The [NZNOG Conference 2019](conferences/nznog-2019) was held in Napier.
 
 ## Mailing List
 The NZNOG mailing list is NZNOG. NZNOG is the mailing list. Given this definition it isn't surprising that many threads are circular. The NZNOG mailing list is intended for the discussion of technical issues relating to networking in New Zealand.
