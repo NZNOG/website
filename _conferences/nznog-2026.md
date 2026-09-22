@@ -1,10 +1,10 @@
 ---
 title: NZNOG 2026
-current_conference: true
+current_conference: false
 order: 1
 ---
 
-NZNOG 2026 will be held in Christchurch, New Zealand, at Te Pae Christchurch Convention Centre
+NZNOG 2026 was held in Christchurch, New Zealand, at Te Pae Christchurch Convention Centre
 
 | Date | Tutorials | Systers | Conference | Evening Event |
 | --- | --- | --- | --- |
