@@ -6,7 +6,7 @@ NZNOG 2023 is being held at the Rydges Hotel, Rotorua.
 
 ## Conference Venue - Rydges Hotel
 
-Note that Rotorua previously had a Rydges on Fenton St. The conference venue + primary accomodation is at the current Rydges on Tryon St.
+Note that Rotorua previously had a Rydges on Fenton St. The conference venue + primary accommodation is at the current Rydges on Tryon St.
 
 We have secured a delegate rate for the conference attendees - this is available until Feb 20, 2023.
 

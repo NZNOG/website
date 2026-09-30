@@ -2,7 +2,7 @@
 title: NZNOG 2025 Accommodation
 ---
 
-NZNOG 2025 is being held at the Napier War Memorial Centre, on the edge of the Napier CBD, so there are many accomodation options available.
+NZNOG 2025 is being held at the Napier War Memorial Centre, on the edge of the Napier CBD, so there are many accommodation options available.
 
 ## Hotels
 
