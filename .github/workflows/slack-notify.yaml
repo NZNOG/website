@@ -1,0 +1,19 @@
+name: Slack notify
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Await CF Pages and send Slack notification
+      id: cf-pages
+      uses: dfface/cloudflare-pages-notification@v1
+      with:
+        apiToken: ${{ secrets.CF_API_TOKEN }}
+        accountId: ${{ secrets.CF_ACC_ID  }}
+        project: ${{ vars.CF_PAGES_PROJECT }}
+        notificationType: slack
+        webhookUrl: ${{ secrets.SLACK_WEBHOOK }}
+        slackMessage: ":white_check_mark: Deployment for *{{project}}* has {{success ? 'succeeded' : 'failed'}}!\nEnvironment: *{{environment}}*\nDeployment URL: {{deploymentUrl}}\nAlias URL: {{aliasUrl}}\nCommit: {{commitUrl}}"
+
+
