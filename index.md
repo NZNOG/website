@@ -9,7 +9,7 @@ NZNOG has no king, president, or formal membership. It consists of the subscribe
 Our annual conference provides both an opportunity to exchange technical information, and a high-value opportunity for NZ’s networking staff to ‘network’ amongst themselves. This is New Zealand’s only technical networking conference.
 
 
-[NZNOG Conference 2027](conferences/nznog-2027) will be held in Rotorua on 4-9 April, 2027.
+[NZNOG Conference 2027](conferences/nznog-2027) will be held in Rotorua on 5-9 April, 2027.
 
 [NZNOG Conference 2026](conferences/nznog-2026) was held in Christchurch.
 

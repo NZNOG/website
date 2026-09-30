@@ -19,10 +19,10 @@ NZNOG 2027 will be held in Rotorua, New Zealand, at Energy Event Centre
 
 NZNOG is a proud supporter of [IAASystersNZ](https://internet.asn.au/iaasysters-nz/), which supports women in our industry.
 
-Accommodation is available from nearby hotels. See the [Accommodation](/conferences/nznog-2027/accommodation) page for details.
+Accommodation is available from nearby hotels. See the [Accommodation](nznog-2027/accommodation) page for details.
 
 Below are some useful links:
-- [Call for Presentations](/conferences/nznog-2027/call-for-presentations)
+- [Call for Presentations](nznog-2027/call-for-presentations)
 - [Anti-Harassment Policy](/conference-anti-harassment-policy)
 
 We are seeking sponsors and will have a sponsorship document available. For details contact [sponsorship@nznog.org](mailto:sponsorship@nznog.org).

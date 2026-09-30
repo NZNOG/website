@@ -12,10 +12,10 @@ NZNOG has arranged special rates at the following hotels, when using the links /
 
 The following special rates are available for stays between April 4-10 2027.
 
-- [Accor Brands - Novotel and Ibis](https://all.accor.com/booking/en/accor/hotels/rotorua-new-zealand)
+- [Accor Brands - Novotel, Ibis, and Pullman](https://all.accor.com/booking/en/accor/hotels/rotorua-new-zealand)
   - 12% off BAR rate for the conference attendees, using the code NZNOGRT27
-  - Link: [nznog27] https://accorevents.com/offers/nznog27
-- [Millenium Hotel](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/)
+  - Link: [nznog27](https://accorevents.com/offers/nznog27)
+- [Millennium Hotel](https://www.millenniumhotels.com/en/rotorua/millennium-hotel-rotorua/)
   - To book:
     - Click "Book a Room"
     - Enter your stay dates and number of guests, then click "Advanced Search"
