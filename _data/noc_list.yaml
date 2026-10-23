@@ -713,6 +713,13 @@
     - 'Dylan Carruthers'
     - 'Matthew Fenton'
   hours: 24x7
+- name: RileyNet
+  link: https://rileynet.stream
+  domains:
+    - 'rileynet.stream'
+  people:
+    - 'Riley Bylsma'
+  hours: Best effort
 - name: Revera Limited
   link: http://www.revera.co.nz/
   domains:
